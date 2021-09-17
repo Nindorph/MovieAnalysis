@@ -1,462 +1,57 @@
 ,movie_id,name/year,genre,year,name,genre_list,genre_length,avg_rating,rating_count
-9580,118694,Fa yeung nin wah (2000),Drama|Romance,2000,Fa yeung nin wah,"['Drama', 'Romance']",2,8.562043795620438,137
-9955,120667,Fantastic Four (2005),Action|Adventure|Fantasy|Sci-Fi,2005,Fantastic Four,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,6.088235294117647,68
-9959,120679,Frida (2002),Biography|Drama|Romance,2002,Frida,"['Biography', 'Drama', 'Romance']",3,7.966101694915254,59
-9982,120737,The Lord of the Rings: The Fellowship of the Ring (2001),Adventure|Drama|Fantasy,2001,The Lord of the Rings: The Fellowship of the Ring,"['Adventure', 'Drama', 'Fantasy']",3,8.720763723150357,419
-9992,120755,Mission: Impossible II (2000),Action|Adventure|Thriller,2000,Mission: Impossible II,"['Action', 'Adventure', 'Thriller']",3,6.0265486725663715,113
-10017,120804,Resident Evil (2002),Action|Horror|Sci-Fi,2002,Resident Evil,"['Action', 'Horror', 'Sci-Fi']",3,6.779661016949152,59
-10047,120903,X-Men (2000),Action|Adventure|Sci-Fi,2000,X-Men,"['Action', 'Adventure', 'Sci-Fi']",3,7.3119266055045875,218
-10051,120912,Men in Black II (2002),Action|Adventure|Comedy|Mystery|Sci-Fi,2002,Men in Black II,"['Action', 'Adventure', 'Comedy', 'Mystery', 'Sci-Fi']",5,6.311475409836065,61
-10054,120917,The Emperor's New Groove (2000),Animation|Adventure|Comedy|Family|Fantasy,2000,The Emperor's New Groove,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,7.944444444444445,54
-10055,121164,Corpse Bride (2005),Animation|Drama|Family|Fantasy|Musical|Romance,2005,Corpse Bride,"['Animation', 'Drama', 'Family', 'Fantasy', 'Musical', 'Romance']",6,7.52112676056338,71
-10060,121765,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Fantasy|Sci-Fi,2002,Star Wars: Episode II - Attack of the Clones,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,6.735849056603773,265
-10061,121766,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Fantasy|Sci-Fi,2005,Star Wars: Episode III - Revenge of the Sith,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,7.98989898989899,297
-10133,126029,Shrek (2001),Animation|Adventure|Comedy|Family|Fantasy,2001,Shrek,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,8.545454545454545,66
-10276,134847,Pitch Black (2000),Horror|Sci-Fi,2000,Pitch Black,"['Horror', 'Sci-Fi']",2,7.450549450549451,91
-10338,139654,Training Day (2001),Crime|Drama|Thriller,2001,Training Day,"['Crime', 'Drama', 'Thriller']",3,8.021084337349398,332
-10405,144084,American Psycho (2000),Crime|Drama,2000,American Psycho,"['Crime', 'Drama']",2,7.2587548638132295,514
-10431,145487,Spider-Man (2002),Action|Adventure|Sci-Fi,2002,Spider-Man,"['Action', 'Adventure', 'Sci-Fi']",3,7.536585365853658,123
-10453,146882,High Fidelity (2000),Comedy|Drama|Music|Romance,2000,High Fidelity,"['Comedy', 'Drama', 'Music', 'Romance']",4,7.386666666666667,75
-10610,159365,Cold Mountain (2003),Adventure|Drama|History|Romance|War,2003,Cold Mountain,"['Adventure', 'Drama', 'History', 'Romance', 'War']",5,7.8059701492537314,67
-10665,162222,Cast Away (2000),Adventure|Drama|Romance,2000,Cast Away,"['Adventure', 'Drama', 'Romance']",3,8.1425,400
-10667,162346,Ghost World (2001),Comedy|Drama,2001,Ghost World,"['Comedy', 'Drama']",2,7.568627450980392,51
-10680,163025,Jurassic Park III (2001),Action|Adventure|Sci-Fi|Thriller,2001,Jurassic Park III,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,6.081632653061225,98
-10690,163978,The Beach (2000),Adventure|Drama|Romance|Thriller,2000,The Beach,"['Adventure', 'Drama', 'Romance', 'Thriller']",4,6.861386138613861,101
-10767,166924,Mulholland Dr. (2001),Drama|Mystery|Thriller,2001,Mulholland Dr.,"['Drama', 'Mystery', 'Thriller']",3,8.170833333333333,240
-10773,167190,Hellboy (2004),Action|Fantasy|Horror|Sci-Fi,2004,Hellboy,"['Action', 'Fantasy', 'Horror', 'Sci-Fi']",4,6.848101265822785,79
-10775,167260,The Lord of the Rings: The Return of the King (2003),Adventure|Drama|Fantasy,2003,The Lord of the Rings: The Return of the King,"['Adventure', 'Drama', 'Fantasy']",3,9.345268542199488,391
-10776,167261,The Lord of the Rings: The Two Towers (2002),Adventure|Drama|Fantasy,2002,The Lord of the Rings: The Two Towers,"['Adventure', 'Drama', 'Fantasy']",3,8.959537572254336,346
-10798,168629,Dancer in the Dark (2000),Crime|Drama|Musical,2000,Dancer in the Dark,"['Crime', 'Drama', 'Musical']",3,8.541176470588235,85
-10836,172156,Bad Boys II (2003),Action|Comedy|Crime|Thriller,2003,Bad Boys II,"['Action', 'Comedy', 'Crime', 'Thriller']",4,7.257731958762887,97
-10840,172495,Gladiator (2000),Action|Adventure|Drama,2000,Gladiator,"['Action', 'Adventure', 'Drama']",3,8.844537815126051,476
-10925,180093,Requiem for a Dream (2000),Drama,2000,Requiem for a Dream,['Drama'],1,8.272177419354838,496
-10943,181689,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,2002,Minority Report,"['Action', 'Crime', 'Mystery', 'Sci-Fi', 'Thriller']",5,7.8471337579617835,157
-10948,181852,Terminator 3: Rise of the Machines (2003),Action|Sci-Fi,2003,Terminator 3: Rise of the Machines,"['Action', 'Sci-Fi']",2,6.645833333333333,96
-10949,181865,Traffic (2000),Crime|Drama|Thriller,2000,Traffic,"['Crime', 'Drama', 'Thriller']",3,7.527777777777778,72
-10950,181875,Almost Famous (2000),Adventure|Comedy|Drama|Music,2000,Almost Famous,"['Adventure', 'Comedy', 'Drama', 'Music']",4,8.272727272727273,154
-10971,183505,"Me, Myself &amp; Irene (2000)",Comedy,2000,"Me, Myself &amp; Irene",['Comedy'],1,6.96,75
-10973,183649,Phone Booth (2002),Crime|Thriller,2002,Phone Booth,"['Crime', 'Thriller']",2,7.524271844660194,103
-10975,183790,A Knight's Tale (2001),Action|Adventure|Romance,2001,A Knight's Tale,"['Action', 'Adventure', 'Romance']",3,7.553846153846154,65
-11014,187078,Gone in Sixty Seconds (2000),Action|Crime|Thriller,2000,Gone in Sixty Seconds,"['Action', 'Crime', 'Thriller']",3,7.175675675675675,74
-11020,187393,The Patriot (2000),Action|Drama|History|War,2000,The Patriot,"['Action', 'Drama', 'History', 'War']",4,8.043478260869565,69
-11025,187738,Blade II (2002),Action|Horror|Sci-Fi|Thriller,2002,Blade II,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",4,6.923076923076923,65
-11056,190332,Wo hu cang long (2000),Action|Adventure|Fantasy|Romance,2000,Wo hu cang long,"['Action', 'Adventure', 'Fantasy', 'Romance']",4,8.119402985074627,67
-11059,190590,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime|Music,2000,"O Brother, Where Art Thou?","['Adventure', 'Comedy', 'Crime', 'Music']",4,7.848837209302325,172
-11108,195685,Erin Brockovich (2000),Biography|Drama,2000,Erin Brockovich,"['Biography', 'Drama']",2,8.0,91
-11118,196229,Zoolander (2001),Comedy,2001,Zoolander,['Comedy'],1,6.453703703703703,108
-11138,198781,"Monsters, Inc. (2001)",Animation|Adventure|Comedy|Family|Fantasy,2001,"Monsters, Inc.","['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,8.34871794871795,195
-11158,200465,The Bank Job (2008),Crime|Thriller,2008,The Bank Job,"['Crime', 'Thriller']",2,7.492957746478873,71
-11196,203009,Moulin Rouge! (2001),Drama|Musical|Romance,2001,Moulin Rouge!,"['Drama', 'Musical', 'Romance']",3,8.183673469387756,98
-11197,203019,Men of Honor (2000),Biography|Drama,2000,Men of Honor,"['Biography', 'Drama']",2,7.968253968253968,63
-11246,206634,Children of Men (2006),Drama|Sci-Fi|Thriller,2006,Children of Men,"['Drama', 'Sci-Fi', 'Thriller']",3,7.930835734870317,347
-11255,207201,What Women Want (2000),Comedy|Fantasy|Romance,2000,What Women Want,"['Comedy', 'Fantasy', 'Romance']",3,7.25,56
-11267,208092,Snatch (2000),Comedy|Crime,2000,Snatch,"['Comedy', 'Crime']",2,8.204444444444444,450
-11283,209144,Memento (2000),Mystery|Thriller,2000,Memento,"['Mystery', 'Thriller']",2,8.506006006006006,666
-11315,210945,Remember the Titans (2000),Biography|Drama|Sport,2000,Remember the Titans,"['Biography', 'Drama', 'Sport']",3,7.909090909090909,88
-11325,211915,Amélie (2001),Comedy|Romance,2001,Amélie,"['Comedy', 'Romance']",2,8.52112676056338,355
-11326,211933,Awake (2007),Crime|Drama|Mystery|Thriller,2007,Awake,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.224137931034483,58
-11332,212338,Meet the Parents (2000),Comedy|Romance,2000,Meet the Parents,"['Comedy', 'Romance']",2,7.032786885245901,61
-11333,212346,Miss Congeniality (2000),Action|Comedy|Crime|Romance,2000,Miss Congeniality,"['Action', 'Comedy', 'Crime', 'Romance']",4,7.1875,64
-11340,212720,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi,2001,A.I. Artificial Intelligence,"['Adventure', 'Drama', 'Sci-Fi']",3,7.428571428571429,98
-11347,212985,Hannibal (2001),Crime|Drama|Thriller,2001,Hannibal,"['Crime', 'Drama', 'Thriller']",3,7.116071428571429,112
-11348,213149,Pearl Harbor (2001),Action|Drama|History|Romance|War,2001,Pearl Harbor,"['Action', 'Drama', 'History', 'Romance', 'War']",5,7.306666666666667,75
-11354,213847,Malèna (2000),Comedy|Drama|Romance|War,2000,Malèna,"['Comedy', 'Drama', 'Romance', 'War']",4,7.571428571428571,77
-11375,215750,Enemy at the Gates (2001),Drama|History|War,2001,Enemy at the Gates,"['Drama', 'History', 'War']",3,7.917197452229299,157
-11401,217505,Gangs of New York (2002),Crime|Drama,2002,Gangs of New York,"['Crime', 'Drama']",2,7.787301587301587,315
-11407,217869,Unbreakable (2000),Drama|Mystery|Sci-Fi|Thriller,2000,Unbreakable,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",4,7.365145228215767,241
-11453,221027,Blow (2001),Biography|Crime|Drama,2001,Blow,"['Biography', 'Crime', 'Drama']",3,7.858064516129033,155
-11480,223897,Pay It Forward (2000),Drama,2000,Pay It Forward,['Drama'],1,8.0,52
-11496,227445,The Score (2001),Crime|Drama|Thriller,2001,The Score,"['Crime', 'Drama', 'Thriller']",3,7.689655172413793,58
-11525,230600,The Others (2001),Horror|Mystery|Thriller,2001,The Others,"['Horror', 'Mystery', 'Thriller']",3,7.910344827586207,145
-11529,230838,Sweet November (2001),Drama|Romance,2001,Sweet November,"['Drama', 'Romance']",2,7.232142857142857,56
-11538,232500,The Fast and the Furious (2001),Action|Crime|Thriller,2001,The Fast and the Furious,"['Action', 'Crime', 'Thriller']",3,7.292857142857143,140
-11560,234215,The Matrix Reloaded (2003),Action|Sci-Fi,2003,The Matrix Reloaded,"['Action', 'Sci-Fi']",2,7.704081632653061,98
-11609,238380,Equilibrium (2002),Action|Drama|Sci-Fi|Thriller,2002,Equilibrium,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",4,7.135593220338983,118
-11635,240772,Ocean's Eleven (2001),Crime|Thriller,2001,Ocean's Eleven,"['Crime', 'Thriller']",2,8.027450980392157,255
-11637,240890,Serendipity (2001),Comedy|Romance,2001,Serendipity,"['Comedy', 'Romance']",2,6.901960784313726,51
-11641,241303,Chocolat (2000),Drama|Romance,2000,Chocolat,"['Drama', 'Romance']",2,7.594594594594595,74
-11643,241527,Harry Potter and the Sorcerer's Stone (2001),Adventure|Family|Fantasy,2001,Harry Potter and the Sorcerer's Stone,"['Adventure', 'Family', 'Fantasy']",3,7.787671232876712,292
-11659,242653,The Matrix Revolutions (2003),Action|Sci-Fi,2003,The Matrix Revolutions,"['Action', 'Sci-Fi']",2,7.164948453608248,97
-11664,243133,The Man Who Wasn't There (2001),Crime|Drama,2001,The Man Who Wasn't There,"['Crime', 'Drama']",2,7.935064935064935,77
-11665,243155,Bridget Jones's Diary (2001),Comedy|Drama|Romance,2001,Bridget Jones's Diary,"['Comedy', 'Drama', 'Romance']",3,6.859649122807017,57
-11707,245429,Sen to Chihiro no kamikakushi (2001),Animation|Adventure|Family|Fantasy|Mystery,2001,Sen to Chihiro no kamikakushi,"['Animation', 'Adventure', 'Family', 'Fantasy', 'Mystery']",5,8.546910755148742,437
-11711,245574,Y tu mamá también (2001),Adventure|Comedy|Drama,2001,Y tu mamá también,"['Adventure', 'Comedy', 'Drama']",3,7.586666666666667,75
-11714,245712,Amores perros (2000),Drama|Thriller,2000,Amores perros,"['Drama', 'Thriller']",2,8.28,125
-11716,245844,The Count of Monte Cristo (2002),Action|Adventure|Drama|Romance|Thriller,2002,The Count of Monte Cristo,"['Action', 'Adventure', 'Drama', 'Romance', 'Thriller']",5,8.475,80
-11724,246460,Die Another Day (2002),Action|Adventure|Thriller,2002,Die Another Day,"['Action', 'Adventure', 'Thriller']",3,6.245283018867925,53
-11728,246578,Donnie Darko (2001),Drama|Sci-Fi|Thriller,2001,Donnie Darko,"['Drama', 'Sci-Fi', 'Thriller']",3,8.103641456582633,357
-11765,248667,Ali (2001),Biography|Drama|Sport,2001,Ali,"['Biography', 'Drama', 'Sport']",3,7.213114754098361,61
-11808,251127,How to Lose a Guy in 10 Days (2003),Comedy|Romance,2003,How to Lose a Guy in 10 Days,"['Comedy', 'Romance']",2,6.830985915492958,71
-11809,251160,John Q (2002),Crime|Drama|Thriller,2002,John Q,"['Crime', 'Drama', 'Thriller']",3,7.783333333333333,120
-11865,253474,The Pianist (2002),Biography|Drama|Music|War,2002,The Pianist,"['Biography', 'Drama', 'Music', 'War']",4,8.4734375,640
-11894,254686,La pianiste (2001),Drama|Music,2001,La pianiste,"['Drama', 'Music']",2,7.677966101694915,59
-11921,257044,Road to Perdition (2002),Crime|Drama|Thriller,2002,Road to Perdition,"['Crime', 'Drama', 'Thriller']",3,7.778350515463917,194
-11922,257076,S.W.A.T. (2003),Action|Adventure|Crime|Thriller,2003,S.W.A.T.,"['Action', 'Adventure', 'Crime', 'Thriller']",4,6.58,50
-11927,257360,About Schmidt (2002),Comedy|Drama,2002,About Schmidt,"['Comedy', 'Drama']",2,7.576923076923077,78
-11931,258000,Panic Room (2002),Crime|Drama|Thriller,2002,Panic Room,"['Crime', 'Drama', 'Thriller']",3,7.275229357798165,109
-11937,258463,The Bourne Identity (2002),Action|Mystery|Thriller,2002,The Bourne Identity,"['Action', 'Mystery', 'Thriller']",3,7.859903381642512,207
-11957,259711,Vanilla Sky (2001),Fantasy|Mystery|Romance|Sci-Fi|Thriller,2001,Vanilla Sky,"['Fantasy', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller']",5,7.2375,80
-12018,264464,Catch Me If You Can (2002),Biography|Crime|Drama,2002,Catch Me If You Can,"['Biography', 'Crime', 'Drama']",3,8.580093312597201,643
-12029,265086,Black Hawk Down (2001),Drama|History|War,2001,Black Hawk Down,"['Drama', 'History', 'War']",3,7.950617283950617,162
-12036,265208,The Girl Next Door (2004),Comedy|Drama|Romance,2004,The Girl Next Door,"['Comedy', 'Drama', 'Romance']",3,6.86,50
-12042,265459,One Hour Photo (2002),Drama|Thriller,2002,One Hour Photo,"['Drama', 'Thriller']",2,7.345454545454546,55
-12047,265666,The Royal Tenenbaums (2001),Comedy|Drama,2001,The Royal Tenenbaums,"['Comedy', 'Drama']",2,7.814569536423841,151
-12055,266308,Batoru rowaiaru (2000),Adventure|Drama|Sci-Fi|Thriller,2000,Batoru rowaiaru,"['Adventure', 'Drama', 'Sci-Fi', 'Thriller']",4,7.654545454545454,110
-12060,266543,Finding Nemo (2003),Animation|Adventure|Comedy|Family,2003,Finding Nemo,"['Animation', 'Adventure', 'Comedy', 'Family']",4,8.472049689440993,161
-12061,266697,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,2003,Kill Bill: Vol. 1,"['Action', 'Crime', 'Thriller']",3,8.30478589420655,397
-12069,266987,Spy Game (2001),Action|Crime|Thriller,2001,Spy Game,"['Action', 'Crime', 'Thriller']",3,7.47887323943662,71
-12087,268126,Adaptation. (2002),Comedy|Drama,2002,Adaptation.,"['Comedy', 'Drama']",2,7.732673267326732,101
-12089,268380,Ice Age (2002),Animation|Adventure|Comedy|Family|Fantasy,2002,Ice Age,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,8.03921568627451,51
-12099,268978,A Beautiful Mind (2001),Biography|Drama,2001,A Beautiful Mind,"['Biography', 'Drama']",2,8.931851851851851,675
-12139,272020,The Last Castle (2001),Action|Drama|Thriller,2001,The Last Castle,"['Action', 'Drama', 'Thriller']",3,7.734177215189874,79
-12141,272152,K-PAX (2001),Drama|Sci-Fi,2001,K-PAX,"['Drama', 'Sci-Fi']",2,7.947368421052632,76
-12144,272338,Punch-Drunk Love (2002),Comedy|Drama|Romance|Thriller,2002,Punch-Drunk Love,"['Comedy', 'Drama', 'Romance', 'Thriller']",4,7.450980392156863,102
-12168,274558,The Hours (2002),Drama|Romance,2002,The Hours,"['Drama', 'Romance']",2,8.049504950495049,101
-12190,276751,About a Boy (2002),Comedy|Drama|Romance,2002,About a Boy,"['Comedy', 'Drama', 'Romance']",3,7.596774193548387,62
-12195,276919,Dogville (2003),Crime|Drama,2003,Dogville,"['Crime', 'Drama']",2,8.431372549019608,51
-12196,277027,I Am Sam (2001),Drama,2001,I Am Sam,['Drama'],1,8.648854961832061,131
-12219,278504,Insomnia (2002),Drama|Mystery|Thriller,2002,Insomnia,"['Drama', 'Mystery', 'Thriller']",3,7.462809917355372,242
-12270,281358,A Walk to Remember (2002),Drama|Romance,2002,A Walk to Remember,"['Drama', 'Romance']",2,8.02,100
-12354,286106,Signs (2002),Drama|Mystery|Sci-Fi|Thriller,2002,Signs,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",4,7.182926829268292,82
-12380,287467,Hable con ella (2002),Drama|Mystery|Romance,2002,Hable con ella,"['Drama', 'Mystery', 'Romance']",3,8.120689655172415,58
-12387,287978,Daredevil (2003),Action|Adventure|Crime,2003,Daredevil,"['Action', 'Adventure', 'Crime']",3,6.051724137931035,58
-12398,289043,28 Days Later... (2002),Drama|Horror|Sci-Fi|Thriller,2002,28 Days Later...,"['Drama', 'Horror', 'Sci-Fi', 'Thriller']",4,7.189542483660131,153
-12407,289765,Red Dragon (2002),Crime|Drama|Thriller,2002,Red Dragon,"['Crime', 'Drama', 'Thriller']",3,7.518248175182482,137
-12410,289879,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller,2004,The Butterfly Effect,"['Drama', 'Sci-Fi', 'Thriller']",3,8.047619047619047,147
-12413,289992,The Life of David Gale (2003),Crime|Drama|Thriller,2003,The Life of David Gale,"['Crime', 'Drama', 'Thriller']",3,8.15748031496063,127
-12422,290334,X2 (2003),Action|Adventure|Sci-Fi|Thriller,2003,X2,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,7.538461538461538,182
-12428,290673,Irréversible (2002),Crime|Drama|Mystery|Thriller,2002,Irréversible,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.583333333333333,60
-12450,292506,The Recruit (2003),Action|Thriller,2003,The Recruit,"['Action', 'Thriller']",2,6.754716981132075,53
-12458,292963,Before the Devil Knows You're Dead (2007),Crime|Drama|Thriller,2007,Before the Devil Knows You're Dead,"['Crime', 'Drama', 'Thriller']",3,7.3584905660377355,53
 12467,293429,Mortal Kombat (2021),Action|Adventure|Fantasy|Sci-Fi|Thriller,2021,Mortal Kombat,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller']",5,6.336,125
-12474,293662,The Transporter (2002),Action|Crime|Thriller,2002,The Transporter,"['Action', 'Crime', 'Thriller']",3,6.907692307692308,65
-12490,295297,Harry Potter and the Chamber of Secrets (2002),Adventure|Family|Fantasy|Mystery,2002,Harry Potter and the Chamber of Secrets,"['Adventure', 'Family', 'Fantasy', 'Mystery']",4,7.823529411764706,238
-12508,296572,The Chronicles of Riddick (2004),Action|Adventure|Sci-Fi|Thriller,2004,The Chronicles of Riddick,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,7.308641975308642,81
-12527,298130,The Ring (2002),Horror|Mystery,2002,The Ring,"['Horror', 'Mystery']",2,7.314285714285714,70
-12530,298203,8 Mile (2002),Drama|Music,2002,8 Mile,"['Drama', 'Music']",2,8.31651376146789,218
-12548,299658,Chicago (2002),Comedy|Crime|Musical,2002,Chicago,"['Comedy', 'Crime', 'Musical']",3,8.058823529411764,85
-12555,300140,Lilja 4-ever (2002),Crime|Drama,2002,Lilja 4-ever,"['Crime', 'Drama']",2,8.084745762711865,59
-12568,301357,Good Bye Lenin! (2003),Comedy|Drama|Romance,2003,Good Bye Lenin!,"['Comedy', 'Drama', 'Romance']",3,8.084905660377359,106
-12592,302886,Old School (2003),Comedy,2003,Old School,['Comedy'],1,7.227848101265823,79
-12608,304141,Harry Potter and the Prisoner of Azkaban (2004),Adventure|Family|Fantasy|Mystery,2004,Harry Potter and the Prisoner of Azkaban,"['Adventure', 'Family', 'Fantasy', 'Mystery']",4,8.174273858921161,241
-12623,305224,Anger Management (2003),Comedy,2003,Anger Management,['Comedy'],1,6.351851851851852,54
-12658,307901,25th Hour (2002),Drama,2002,25th Hour,['Drama'],1,7.850574712643678,87
-12660,307987,Bad Santa (2003),Comedy|Crime|Drama,2003,Bad Santa,"['Comedy', 'Crime', 'Drama']",3,7.28169014084507,71
-12676,308644,Finding Neverland (2004),Biography|Drama|Family,2004,Finding Neverland,"['Biography', 'Drama', 'Family']",3,8.228260869565217,92
-12687,309698,Identity (2003),Mystery|Thriller,2003,Identity,"['Mystery', 'Thriller']",2,7.536945812807882,203
-12691,309987,The Dreamers (2003),Drama|Romance,2003,The Dreamers,"['Drama', 'Romance']",2,7.423076923076923,78
-12707,311113,Master and Commander: The Far Side of the World (2003),Action|Adventure|Drama|History|War,2003,Master and Commander: The Far Side of the World,"['Action', 'Adventure', 'Drama', 'History', 'War']",5,7.706521739130435,92
-12746,314331,Love Actually (2003),Comedy|Drama|Romance,2003,Love Actually,"['Comedy', 'Drama', 'Romance']",3,7.878205128205129,156
-12762,315327,Bruce Almighty (2003),Comedy|Drama|Fantasy,2003,Bruce Almighty,"['Comedy', 'Drama', 'Fantasy']",3,6.924242424242424,66
-12768,315733,21 Grams (2003),Crime|Drama|Thriller,2003,21 Grams,"['Crime', 'Drama', 'Thriller']",3,8.11111111111111,117
-12782,316654,Spider-Man 2 (2004),Action|Adventure|Sci-Fi,2004,Spider-Man 2,"['Action', 'Adventure', 'Sci-Fi']",3,7.575221238938053,113
-12792,317219,Cars (2006),Animation|Comedy|Family|Fantasy|Sport,2006,Cars,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Sport']",5,7.764705882352941,85
-12795,317248,Cidade de Deus (2002),Crime|Drama,2002,Cidade de Deus,"['Crime', 'Drama']",2,8.594674556213018,338
-12800,317705,The Incredibles (2004),Animation|Action|Adventure|Family,2004,The Incredibles,"['Animation', 'Action', 'Adventure', 'Family']",4,8.371951219512194,164
-12801,317740,The Italian Job (2003),Action|Crime|Thriller,2003,The Italian Job,"['Action', 'Crime', 'Thriller']",3,7.360655737704918,122
-12806,317919,Mission: Impossible III (2006),Action|Adventure|Thriller,2006,Mission: Impossible III,"['Action', 'Adventure', 'Thriller']",3,7.238532110091743,109
-12821,318627,Resident Evil: Apocalypse (2004),Action|Horror|Sci-Fi|Thriller,2004,Resident Evil: Apocalypse,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",4,6.86,50
-12830,319061,Big Fish (2003),Adventure|Drama|Fantasy|Romance,2003,Big Fish,"['Adventure', 'Drama', 'Fantasy', 'Romance']",4,8.308457711442786,201
-12835,319262,The Day After Tomorrow (2004),Action|Adventure|Sci-Fi|Thriller,2004,The Day After Tomorrow,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,6.925233644859813,107
-12836,319343,Elf (2003),Comedy|Family|Fantasy|Romance,2003,Elf,"['Comedy', 'Family', 'Fantasy', 'Romance']",4,7.42,100
-12851,320661,Kingdom of Heaven (2005),Action|Adventure|Drama|History|War,2005,Kingdom of Heaven,"['Action', 'Adventure', 'Drama', 'History', 'War']",5,7.811881188118812,101
-12852,320691,Underworld (2003),Action|Fantasy|Thriller,2003,Underworld,"['Action', 'Fantasy', 'Thriller']",3,7.731343283582089,67
-12858,322259,2 Fast 2 Furious (2003),Action|Crime|Thriller,2003,2 Fast 2 Furious,"['Action', 'Crime', 'Thriller']",3,6.323529411764706,102
-12903,325710,The Last Samurai (2003),Action|Drama|War,2003,The Last Samurai,"['Action', 'Drama', 'War']",3,8.221556886227544,167
-12908,325980,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Fantasy,2003,Pirates of the Caribbean: The Curse of the Black Pearl,"['Action', 'Adventure', 'Fantasy']",3,8.366071428571429,224
-12928,327056,Mystic River (2003),Crime|Drama|Mystery|Thriller,2003,Mystic River,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,8.255555555555556,360
-12939,327597,Coraline (2009),Animation|Drama|Fantasy|Thriller,2009,Coraline,"['Animation', 'Drama', 'Fantasy', 'Thriller']",4,7.809523809523809,84
-12954,328107,Man on Fire (2004),Action|Crime|Drama|Thriller,2004,Man on Fire,"['Action', 'Crime', 'Drama', 'Thriller']",4,7.869346733668341,199
-12993,330373,Harry Potter and the Goblet of Fire (2005),Adventure|Family|Fantasy|Mystery,2005,Harry Potter and the Goblet of Fire,"['Adventure', 'Family', 'Fantasy', 'Mystery']",4,8.239316239316238,234
-13001,330793,The Punisher (2004),Action|Crime|Drama|Thriller,2004,The Punisher,"['Action', 'Crime', 'Drama', 'Thriller']",4,6.866666666666666,60
-13019,332280,The Notebook (2004),Drama|Romance,2004,The Notebook,"['Drama', 'Romance']",2,8.363849765258216,426
-13022,332379,The School of Rock (2003),Comedy|Music,2003,The School of Rock,"['Comedy', 'Music']",2,7.64367816091954,87
-13023,332452,Troy (2004),Drama|History,2004,Troy,"['Drama', 'History']",2,7.847560975609756,164
-13031,333766,Garden State (2004),Comedy|Drama|Romance,2004,Garden State,"['Comedy', 'Drama', 'Romance']",3,7.6075949367088604,79
-13041,335266,Lost in Translation (2003),Drama,2003,Lost in Translation,['Drama'],1,7.511299435028248,354
-13042,335345,The Passion of the Christ (2004),Drama,2004,The Passion of the Christ,['Drama'],1,8.356164383561644,73
-13051,337563,13 Going on 30 (2004),Comedy|Fantasy|Romance,2004,13 Going on 30,"['Comedy', 'Fantasy', 'Romance']",3,7.314814814814815,54
 13057,337692,On the Road (2012),Adventure|Drama|Romance,2012,On the Road,"['Adventure', 'Drama', 'Romance']",3,6.166666666666667,72
-13072,337978,Die Hard 4.0 (2007),Action|Thriller,2007,Die Hard 4.0,"['Action', 'Thriller']",2,7.237113402061856,97
-13074,338013,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,2004,Eternal Sunshine of the Spotless Mind,"['Drama', 'Romance', 'Sci-Fi']",3,8.288659793814434,582
-13086,338348,The Polar Express (2004),Animation|Adventure|Comedy|Family|Fantasy|Musical,2004,The Polar Express,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",6,7.057142857142857,70
-13093,338526,Van Helsing (2004),Action|Adventure|Fantasy,2004,Van Helsing,"['Action', 'Adventure', 'Fantasy']",3,6.627450980392157,51
-13094,338564,Mou gaan dou (2002),Crime|Drama|Mystery|Thriller,2002,Mou gaan dou,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,8.232142857142858,56
-13097,338751,The Aviator (2004),Biography|Drama,2004,The Aviator,"['Biography', 'Drama']",2,7.761133603238866,247
-13108,339291,A Series of Unfortunate Events (2004),Adventure|Comedy|Family|Fantasy,2004,A Series of Unfortunate Events,"['Adventure', 'Comedy', 'Family', 'Fantasy']",4,7.610169491525424,59
-13130,340377,The Station Agent (2003),Comedy|Drama,2003,The Station Agent,"['Comedy', 'Drama']",2,7.42,50
-13134,340855,Monster (2003),Biography|Crime|Drama|Thriller,2003,Monster,"['Biography', 'Crime', 'Drama', 'Thriller']",4,7.559701492537314,134
-13164,343660,50 First Dates (2004),Comedy|Drama|Romance,2004,50 First Dates,"['Comedy', 'Drama', 'Romance']",3,6.871428571428571,70
-13167,343818,"I, Robot (2004)",Action|Crime|Drama|Mystery|Sci-Fi|Thriller,2004,"I, Robot","['Action', 'Crime', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",6,7.53125,96
-13199,347149,Hauru no ugoku shiro (2004),Animation|Adventure|Family|Fantasy,2004,Hauru no ugoku shiro,"['Animation', 'Adventure', 'Family', 'Fantasy']",4,8.548387096774194,248
-13213,348150,Superman Returns (2006),Action|Adventure|Sci-Fi,2006,Superman Returns,"['Action', 'Adventure', 'Sci-Fi']",3,6.560975609756097,82
-13232,349903,Ocean's Twelve (2004),Crime|Thriller,2004,Ocean's Twelve,"['Crime', 'Thriller']",2,6.53125,128
-13238,350258,Ray (2004),Biography|Drama|Music,2004,Ray,"['Biography', 'Drama', 'Music']",3,8.178571428571429,84
-13248,351283,Madagascar (2005),Animation|Adventure|Comedy|Family,2005,Madagascar,"['Animation', 'Adventure', 'Comedy', 'Family']",4,7.052631578947368,57
-13255,352248,Cinderella Man (2005),Biography|Drama|Sport,2005,Cinderella Man,"['Biography', 'Drama', 'Sport']",3,8.675925925925926,216
-13267,353969,Salinui chueok (2003),Action|Crime|Drama|Mystery|Thriller,2003,Salinui chueok,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",5,8.513833992094861,253
-13303,356910,Mr. &amp; Mrs. Smith (2005),Action|Comedy|Crime|Thriller,2005,Mr. &amp; Mrs. Smith,"['Action', 'Comedy', 'Crime', 'Thriller']",4,6.870689655172414,116
-13308,357413,Anchorman: The Legend of Ron Burgundy (2004),Comedy,2004,Anchorman: The Legend of Ron Burgundy,['Comedy'],1,7.119565217391305,184
-13318,358273,Walk the Line (2005),Biography|Drama|Music|Romance,2005,Walk the Line,"['Biography', 'Drama', 'Music', 'Romance']",4,8.497907949790795,239
 13335,359950,The Secret Life of Walter Mitty (2013),Adventure|Comedy|Drama|Fantasy|Romance,2013,The Secret Life of Walter Mitty,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance']",5,7.553511705685619,1196
-13343,360486,Constantine (2005),Action|Fantasy|Horror|Mystery,2005,Constantine,"['Action', 'Fantasy', 'Horror', 'Mystery']",4,7.20952380952381,105
-13345,360717,King Kong (2005),Action|Adventure|Drama|Romance,2005,King Kong,"['Action', 'Adventure', 'Drama', 'Romance']",4,7.844444444444444,90
-13363,361748,Inglourious Basterds (2009),Adventure|Drama|War,2009,Inglourious Basterds,"['Adventure', 'Drama', 'War']",3,8.451764705882352,850
-13366,361862,The Machinist (2004),Drama|Thriller,2004,The Machinist,"['Drama', 'Thriller']",2,7.7272727272727275,275
-13371,362225,Ne le dis à personne (2006),Crime|Drama|Mystery|Romance|Thriller,2006,Ne le dis à personne,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",5,7.879518072289157,83
-13372,362227,The Terminal (2004),Comedy|Drama|Romance,2004,The Terminal,"['Comedy', 'Drama', 'Romance']",3,8.034739454094293,403
-13374,362270,The Life Aquatic with Steve Zissou (2004),Action|Adventure|Comedy|Drama|Romance,2004,The Life Aquatic with Steve Zissou,"['Action', 'Adventure', 'Comedy', 'Drama', 'Romance']",5,7.87,100
-13382,363163,Der Untergang (2004),Biography|Drama|History|War,2004,Der Untergang,"['Biography', 'Drama', 'History', 'War']",4,8.292887029288703,239
-13396,363547,Dawn of the Dead (2004),Horror,2004,Dawn of the Dead,['Horror'],1,7.209876543209877,81
-13401,363988,Secret Window (2004),Drama|Mystery|Thriller,2004,Secret Window,"['Drama', 'Mystery', 'Thriller']",3,7.111111111111111,90
-13411,364569,Oldeuboi (2003),Action|Drama|Mystery|Thriller,2003,Oldeuboi,"['Action', 'Drama', 'Mystery', 'Thriller']",4,8.318072289156627,415
-13414,364725,Dodgeball: A True Underdog Story (2004),Comedy|Sport,2004,Dodgeball: A True Underdog Story,"['Comedy', 'Sport']",2,7.459016393442623,61
-13431,365748,Shaun of the Dead (2004),Comedy|Horror,2004,Shaun of the Dead,"['Comedy', 'Horror']",2,7.831223628691983,237
 13439,365907,A Walk Among the Tombstones (2014),Action|Crime|Drama|Thriller,2014,A Walk Among the Tombstones,"['Action', 'Crime', 'Drama', 'Thriller']",4,6.51566265060241,415
-13458,366627,The Jacket (2005),Drama|Fantasy|Mystery|Sci-Fi|Thriller,2005,The Jacket,"['Drama', 'Fantasy', 'Mystery', 'Sci-Fi', 'Thriller']",5,7.117647058823529,51
-13484,367594,Charlie and the Chocolate Factory (2005),Adventure|Comedy|Family|Fantasy|Musical,2005,Charlie and the Chocolate Factory,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",5,6.723404255319149,94
-13490,367882,Indiana Jones and the Kingdom of the Crystal Skull (2008),Action|Adventure,2008,Indiana Jones and the Kingdom of the Crystal Skull,"['Action', 'Adventure']",2,6.444444444444445,81
-13493,367959,Hannibal Rising (2007),Adventure|Crime|Drama|Thriller|War,2007,Hannibal Rising,"['Adventure', 'Crime', 'Drama', 'Thriller', 'War']",5,6.8,50
-13494,368008,The Manchurian Candidate (2004),Drama|Mystery|Sci-Fi|Thriller,2004,The Manchurian Candidate,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",4,6.685185185185185,54
-13497,368226,The Room (2003),Drama,2003,The Room,['Drama'],1,4.564356435643564,101
-13503,368447,The Village (2004),Drama|Mystery|Thriller,2004,The Village,"['Drama', 'Mystery', 'Thriller']",3,6.915254237288136,59
-13522,368891,National Treasure (2004),Action|Adventure|Family|Mystery|Thriller,2004,National Treasure,"['Action', 'Adventure', 'Family', 'Mystery', 'Thriller']",5,7.277777777777778,54
-13533,369339,Collateral (2004),Crime|Drama|Thriller,2004,Collateral,"['Crime', 'Drama', 'Thriller']",3,7.509615384615385,208
 13538,369610,Jurassic World (2015),Action|Adventure|Sci-Fi,2015,Jurassic World,"['Action', 'Adventure', 'Sci-Fi']",3,7.313207547169811,1325
-13540,369702,Mar adentro (2004),Biography|Drama,2004,Mar adentro,"['Biography', 'Drama']",2,8.365079365079366,63
-13549,370263,AVP: Alien vs. Predator (2004),Action|Adventure|Horror|Sci-Fi|Thriller,2004,AVP: Alien vs. Predator,"['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller']",5,5.9818181818181815,55
-13564,371724,The Hitchhiker's Guide to the Galaxy (2005),Adventure|Comedy|Sci-Fi,2005,The Hitchhiker's Guide to the Galaxy,"['Adventure', 'Comedy', 'Sci-Fi']",3,7.314285714285714,70
-13567,371746,Iron Man (2008),Action|Adventure|Sci-Fi,2008,Iron Man,"['Action', 'Adventure', 'Sci-Fi']",3,7.912639405204461,538
-13574,372183,The Bourne Supremacy (2004),Action|Mystery|Thriller,2004,The Bourne Supremacy,"['Action', 'Mystery', 'Thriller']",3,7.8875,160
-13584,372784,Batman Begins (2005),Action|Adventure,2005,Batman Begins,"['Action', 'Adventure']",2,8.51487414187643,437
-13591,373074,Kung fu (2004),Action|Comedy|Fantasy,2004,Kung fu,"['Action', 'Comedy', 'Fantasy']",3,7.85,60
-13598,373469,Kiss Kiss Bang Bang (2005),Action|Comedy|Crime|Mystery|Thriller,2005,Kiss Kiss Bang Bang,"['Action', 'Comedy', 'Crime', 'Mystery', 'Thriller']",5,7.442477876106195,113
-13606,373889,Harry Potter and the Order of the Phoenix (2007),Adventure|Family|Fantasy|Mystery,2007,Harry Potter and the Order of the Phoenix,"['Adventure', 'Family', 'Fantasy', 'Mystery']",4,7.955882352941177,204
-13634,375063,Sideways (2004),Comedy|Drama|Romance,2004,Sideways,"['Comedy', 'Drama', 'Romance']",3,7.587719298245614,114
-13643,375679,Crash (2004),Crime|Drama|Thriller,2004,Crash,"['Crime', 'Drama', 'Thriller']",3,8.011049723756907,181
-13648,375912,Layer Cake (2004),Action|Crime|Drama|Thriller,2004,Layer Cake,"['Action', 'Crime', 'Drama', 'Thriller']",4,7.406779661016949,118
 13654,376136,The Rum Diary (2011),Comedy|Drama,2011,The Rum Diary,"['Comedy', 'Drama']",2,6.580645161290323,62
-13662,376541,Closer (2004),Drama|Romance,2004,Closer,"['Drama', 'Romance']",2,7.455284552845528,123
-13673,376994,X-Men: The Last Stand (2006),Action|Adventure|Sci-Fi|Thriller,2006,X-Men: The Last Stand,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,6.791208791208791,182
-13679,377092,Mean Girls (2004),Comedy,2004,Mean Girls,['Comedy'],1,7.485436893203883,103
-13699,378194,Kill Bill: Vol. 2 (2004),Action|Crime|Thriller,2004,Kill Bill: Vol. 2,"['Action', 'Crime', 'Thriller']",3,8.092936802973977,269
-13724,379725,Capote (2005),Biography|Crime|Drama|History,2005,Capote,"['Biography', 'Crime', 'Drama', 'History']",4,7.540322580645161,124
-13725,379786,Serenity (2005),Action|Adventure|Sci-Fi|Thriller,2005,Serenity,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,7.732394366197183,71
-13739,380510,The Lovely Bones (2009),Drama|Fantasy|Thriller,2009,The Lovely Bones,"['Drama', 'Fantasy', 'Thriller']",3,6.492537313432836,67
-13747,381061,Casino Royale (2006),Action|Adventure|Thriller,2006,Casino Royale,"['Action', 'Adventure', 'Thriller']",3,8.067567567567568,222
-13756,381681,Before Sunset (2004),Drama|Romance,2004,Before Sunset,"['Drama', 'Romance']",2,8.302405498281788,291
-13758,381707,White Chicks (2004),Comedy|Crime,2004,White Chicks,"['Comedy', 'Crime']",2,6.962962962962963,81
-13759,381849,3:10 to Yuma (2007),Action|Crime|Drama|Western,2007,3:10 to Yuma,"['Action', 'Crime', 'Drama', 'Western']",4,7.848623853211009,218
-13775,382625,The Da Vinci Code (2006),Mystery|Thriller,2006,The Da Vinci Code,"['Mystery', 'Thriller']",2,7.068965517241379,145
-13782,382932,Ratatouille (2007),Animation|Adventure|Comedy|Drama|Family|Fantasy,2007,Ratatouille,"['Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",6,8.387096774193548,186
-13786,383028,"Synecdoche, New York (2008)",Comedy|Drama,2008,"Synecdoche, New York","['Comedy', 'Drama']",2,7.838235294117647,68
-13795,383574,Pirates of the Caribbean: Dead Man's Chest (2006),Action|Adventure|Fantasy,2006,Pirates of the Caribbean: Dead Man's Chest,"['Action', 'Adventure', 'Fantasy']",3,7.80379746835443,158
-13805,384537,Silent Hill (2006),Horror,2006,Silent Hill,['Horror'],1,6.671875,64
-13815,385002,Hooligans (2005),Crime|Drama|Sport,2005,Hooligans,"['Crime', 'Drama', 'Sport']",3,7.577319587628866,97
 13834,385887,Motherless Brooklyn (2019),Crime|Drama,2019,Motherless Brooklyn,"['Crime', 'Drama']",2,6.728,125
-13839,386117,Where the Wild Things Are (2009),Adventure|Drama|Family|Fantasy,2009,Where the Wild Things Are,"['Adventure', 'Drama', 'Family', 'Fantasy']",4,6.910714285714286,56
-13844,386588,Hitch (2005),Comedy|Romance,2005,Hitch,"['Comedy', 'Romance']",2,7.226415094339623,106
-13856,387131,The Constant Gardener (2005),Drama|Mystery|Romance|Thriller,2005,The Constant Gardener,"['Drama', 'Mystery', 'Romance', 'Thriller']",4,7.2727272727272725,55
-13863,387564,Saw (2004),Crime|Horror|Mystery|Thriller,2004,Saw,"['Crime', 'Horror', 'Mystery', 'Thriller']",4,7.6328125,128
-13866,387808,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,2006,Idiocracy,"['Adventure', 'Comedy', 'Sci-Fi', 'Thriller']",4,6.611111111111111,54
-13868,387898,Caché (2005),Drama|Mystery|Thriller,2005,Caché,"['Drama', 'Mystery', 'Thriller']",3,7.166666666666667,54
-13890,388795,Brokeback Mountain (2005),Drama|Romance,2005,Brokeback Mountain,"['Drama', 'Romance']",2,7.607407407407408,135
-13900,389722,30 Days of Night (2007),Action|Horror|Thriller,2007,30 Days of Night,"['Action', 'Horror', 'Thriller']",3,7.101694915254237,59
-13902,389860,Click (2006),Comedy|Drama|Fantasy|Romance,2006,Click,"['Comedy', 'Drama', 'Fantasy', 'Romance']",4,6.828571428571428,70
-13918,390384,Primer (2004),Drama|Sci-Fi|Thriller,2004,Primer,"['Drama', 'Sci-Fi', 'Thriller']",3,6.855072463768116,69
-13938,393162,Coach Carter (2005),Biography|Drama|Sport,2005,Coach Carter,"['Biography', 'Drama', 'Sport']",3,8.03883495145631,103
-13949,395169,Hotel Rwanda (2004),Biography|Drama|History|War,2004,Hotel Rwanda,"['Biography', 'Drama', 'History', 'War']",4,8.492307692307692,130
-13964,396171,Perfume: The Story of a Murderer (2006),Crime|Drama,2006,Perfume: The Story of a Murderer,"['Crime', 'Drama']",2,7.554945054945055,182
-13968,396269,Wedding Crashers (2005),Comedy|Romance,2005,Wedding Crashers,"['Comedy', 'Romance']",2,7.329545454545454,88
-13995,397535,Memoirs of a Geisha (2005),Drama|Romance,2005,Memoirs of a Geisha,"['Drama', 'Romance']",2,7.293103448275862,58
-13997,397892,Bolt (2008),Animation|Adventure|Comedy|Drama|Family,2008,Bolt,"['Animation', 'Adventure', 'Comedy', 'Drama', 'Family']",5,7.48,50
-14001,398165,The Longest Yard (2005),Comedy|Crime|Sport,2005,The Longest Yard,"['Comedy', 'Crime', 'Sport']",3,7.3090909090909095,55
 14002,398286,Tangled (2010),Animation|Adventure|Comedy|Family|Fantasy|Musical|Romance,2010,Tangled,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",7,8.126760563380282,142
-14006,398808,Bridge to Terabithia (2007),Adventure|Drama|Family|Fantasy,2007,Bridge to Terabithia,"['Adventure', 'Drama', 'Family', 'Fantasy']",4,7.583333333333333,60
-14016,399146,A History of Violence (2005),Drama|Thriller,2005,A History of Violence,"['Drama', 'Thriller']",2,7.1568627450980395,102
-14017,399201,The Island (2005),Action|Sci-Fi|Thriller,2005,The Island,"['Action', 'Sci-Fi', 'Thriller']",3,7.478260869565218,69
-14018,399295,Lord of War (2005),Crime|Drama|Thriller,2005,Lord of War,"['Crime', 'Drama', 'Thriller']",3,7.928571428571429,112
-14036,401383,Le scaphandre et le papillon (2007),Biography|Drama,2007,Le scaphandre et le papillon,"['Biography', 'Drama']",2,8.337662337662337,77
 14041,401729,John Carter (2012),Action|Adventure|Sci-Fi,2012,John Carter,"['Action', 'Adventure', 'Sci-Fi']",3,6.442748091603053,131
-14042,401792,Sin City (2005),Crime|Thriller,2005,Sin City,"['Crime', 'Thriller']",2,8.089473684210526,190
-14077,404032,The Exorcism of Emily Rose (2005),Drama|Horror|Thriller,2005,The Exorcism of Emily Rose,"['Drama', 'Horror', 'Thriller']",3,7.490909090909091,55
-14079,404203,Little Children (2006),Drama|Romance,2006,Little Children,"['Drama', 'Romance']",2,7.803571428571429,56
 14089,404978,Gambit (2012),Comedy|Crime,2012,Gambit,"['Comedy', 'Crime']",2,5.56043956043956,91
-14092,405094,The Lives of Others (2006),Drama|Thriller,2006,The Lives of Others,"['Drama', 'Thriller']",2,8.662460567823343,317
-14093,405159,Million Dollar Baby (2004),Drama|Sport,2004,Million Dollar Baby,"['Drama', 'Sport']",2,8.48641975308642,405
-14101,405422,The 40 Year Old Virgin (2005),Comedy|Romance,2005,The 40 Year Old Virgin,"['Comedy', 'Romance']",2,7.105960264900662,151
-14133,407304,War of the Worlds (2005),Adventure|Sci-Fi|Thriller,2005,War of the Worlds,"['Adventure', 'Sci-Fi', 'Thriller']",3,6.822429906542056,107
-14139,407887,The Departed (2006),Crime|Drama|Thriller,2006,The Departed,"['Crime', 'Drama', 'Thriller']",3,8.6909307875895,838
-14143,408236,Sweeney Todd: The Demon Barber of Fleet Street (2007),Drama|Horror|Musical|Thriller,2007,Sweeney Todd: The Demon Barber of Fleet Street,"['Drama', 'Horror', 'Musical', 'Thriller']",4,7.866141732283465,127
-14145,408306,Munich (2005),Drama|History|Thriller,2005,Munich,"['Drama', 'History', 'Thriller']",3,7.387755102040816,98
-14152,408790,Flightplan (2005),Action|Drama|Mystery|Thriller,2005,Flightplan,"['Action', 'Drama', 'Mystery', 'Thriller']",4,7.172839506172839,81
-14164,409459,Watchmen (2009),Action|Drama|Mystery|Sci-Fi,2009,Watchmen,"['Action', 'Drama', 'Mystery', 'Sci-Fi']",4,7.929889298892989,271
 14166,409847,Cowboys &amp; Aliens (2011),Action|Sci-Fi|Thriller|Western,2011,Cowboys &amp; Aliens,"['Action', 'Sci-Fi', 'Thriller', 'Western']",4,6.428571428571429,84
-14189,411477,Hellboy II: The Golden Army (2008),Action|Adventure|Fantasy|Horror|Sci-Fi,2008,Hellboy II: The Golden Army,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",5,7.566666666666666,60
-14195,412019,Broken Flowers (2005),Comedy|Drama|Mystery|Romance,2005,Broken Flowers,"['Comedy', 'Drama', 'Mystery', 'Romance']",4,7.5576923076923075,52
-14208,413300,Spider-Man 3 (2007),Action|Adventure|Sci-Fi,2007,Spider-Man 3,"['Action', 'Adventure', 'Sci-Fi']",3,6.457142857142857,105
-14217,414387,Pride &amp; Prejudice (2005),Drama|Romance,2005,Pride &amp; Prejudice,"['Drama', 'Romance']",2,8.163157894736843,190
-14226,414993,The Fountain (2006),Drama|Sci-Fi,2006,The Fountain,"['Drama', 'Sci-Fi']",2,7.686131386861314,137
-14249,416320,Match Point (2005),Drama|Romance|Thriller,2005,Match Point,"['Drama', 'Romance', 'Thriller']",3,7.471014492753623,138
-14251,416449,300 (2006),Action|Fantasy|War,2006,300,"['Action', 'Fantasy', 'War']",3,7.899193548387097,248
-14280,417741,Harry Potter and the Half-Blood Prince (2009),Adventure|Family|Fantasy|Mystery,2009,Harry Potter and the Half-Blood Prince,"['Adventure', 'Family', 'Fantasy', 'Mystery']",4,8.09433962264151,212
-14290,418279,Transformers (2007),Action|Adventure|Sci-Fi,2007,Transformers,"['Action', 'Adventure', 'Sci-Fi']",3,7.637795275590551,127
-14301,418763,Jarhead (2005),Biography|Drama|War,2005,Jarhead,"['Biography', 'Drama', 'War']",3,7.15,60
-14323,419677,Dead Man's Shoes (2004),Crime|Drama|Thriller,2004,Dead Man's Shoes,"['Crime', 'Drama', 'Thriller']",3,8.0,57
-14332,419887,The Kite Runner (2007),Drama,2007,The Kite Runner,['Drama'],1,7.848484848484849,66
-14339,420223,Stranger Than Fiction (2006),Comedy|Drama|Fantasy|Romance,2006,Stranger Than Fiction,"['Comedy', 'Drama', 'Fantasy', 'Romance']",4,8.008264462809917,121
 14344,420293,The Stanford Prison Experiment (2015),Biography|Drama|History|Thriller,2015,The Stanford Prison Experiment,"['Biography', 'Drama', 'History', 'Thriller']",4,6.94,100
-14368,421239,Red Eye (2005),Mystery|Thriller,2005,Red Eye,"['Mystery', 'Thriller']",2,6.797101449275362,69
-14372,421715,The Curious Case of Benjamin Button (2008),Drama|Fantasy|Romance,2008,The Curious Case of Benjamin Button,"['Drama', 'Fantasy', 'Romance']",3,8.760683760683762,468
-14408,424136,Hard Candy (2005),Crime|Drama|Thriller,2005,Hard Candy,"['Crime', 'Drama', 'Thriller']",3,7.2,100
-14432,425061,Get Smart (2008),Action|Adventure|Comedy,2008,Get Smart,"['Action', 'Adventure', 'Comedy']",3,6.864197530864198,81
-14435,425112,Hot Fuzz (2007),Action|Comedy|Mystery,2007,Hot Fuzz,"['Action', 'Comedy', 'Mystery']",3,7.807531380753138,239
-14440,425210,Lucky Number Slevin (2006),Crime|Drama|Mystery|Thriller,2006,Lucky Number Slevin,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.900900900900901,111
-14467,426931,August Rush (2007),Drama|Music,2007,August Rush,"['Drama', 'Music']",2,8.0625,64
-14472,427309,The Great Debaters (2007),Biography|Drama|Romance,2007,The Great Debaters,"['Biography', 'Drama', 'Romance']",3,7.769230769230769,52
-14486,427944,Thank You for Smoking (2005),Comedy|Drama,2005,Thank You for Smoking,"['Comedy', 'Drama']",2,7.616279069767442,86
 14506,429493,The A-Team (2010),Action|Adventure|Thriller,2010,The A-Team,"['Action', 'Adventure', 'Thriller']",3,6.990384615384615,104
-14516,430105,Four Brothers (2005),Action|Crime|Drama|Mystery|Thriller,2005,Four Brothers,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",5,7.074074074074074,81
-14532,430922,Role Models (2008),Comedy,2008,Role Models,['Comedy'],1,6.546875,64
 14533,431021,The Possession (2012),Horror|Mystery|Thriller,2012,The Possession,"['Horror', 'Mystery', 'Thriller']",3,5.913793103448276,116
-14535,431197,The Kingdom (2007),Action|Drama|Thriller,2007,The Kingdom,"['Action', 'Drama', 'Thriller']",3,7.65625,64
-14537,431308,P.S. I Love You (2007),Drama|Romance,2007,P.S. I Love You,"['Drama', 'Romance']",2,7.56,75
-14540,432283,Fantastic Mr. Fox (2009),Animation|Adventure|Comedy|Crime|Drama|Family,2009,Fantastic Mr. Fox,"['Animation', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Family']",6,8.104166666666666,144
-14546,432348,Saw II (2005),Crime|Horror|Mystery,2005,Saw II,"['Crime', 'Horror', 'Mystery']",3,7.138461538461539,65
 14552,433035,Real Steel (2011),Action|Drama|Family|Sci-Fi|Sport,2011,Real Steel,"['Action', 'Drama', 'Family', 'Sci-Fi', 'Sport']",5,7.562874251497006,167
-14557,433362,Daybreakers (2009),Action|Fantasy|Horror|Sci-Fi|Thriller,2009,Daybreakers,"['Action', 'Fantasy', 'Horror', 'Sci-Fi', 'Thriller']",5,6.6,60
-14560,433387,Harsh Times (2005),Action|Crime|Drama|Thriller,2005,Harsh Times,"['Action', 'Crime', 'Drama', 'Thriller']",4,7.056603773584905,53
-14561,433400,Just Friends (2005),Comedy|Romance,2005,Just Friends,"['Comedy', 'Romance']",2,5.961538461538462,52
-14573,434409,V for Vendetta (2005),Action|Drama|Sci-Fi|Thriller,2005,V for Vendetta,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",4,8.444705882352942,425
-14584,435625,The Descent (2005),Adventure|Horror|Thriller,2005,The Descent,"['Adventure', 'Horror', 'Thriller']",3,7.222222222222222,72
 14586,435651,The Giver (2014),Drama|Romance|Sci-Fi,2014,The Giver,"['Drama', 'Romance', 'Sci-Fi']",3,6.957142857142857,280
 14594,435761,Toy Story 3 (2010),Animation|Adventure|Comedy|Family|Fantasy,2010,Toy Story 3,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,8.723076923076922,195
 14618,437086,Alita: Battle Angel (2019),Action|Adventure|Sci-Fi|Thriller,2019,Alita: Battle Angel,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,7.477386934673367,398
-14635,438488,Terminator Salvation (2009),Action|Adventure|Sci-Fi,2009,Terminator Salvation,"['Action', 'Adventure', 'Sci-Fi']",3,6.884955752212389,113
-14656,440963,The Bourne Ultimatum (2007),Action|Mystery|Thriller,2007,The Bourne Ultimatum,"['Action', 'Mystery', 'Thriller']",3,8.248587570621469,177
-14665,441773,Kung Fu Panda (2008),Animation|Action|Adventure|Comedy|Family,2008,Kung Fu Panda,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family']",5,7.573333333333333,75
 14675,443272,Lincoln (2012),Biography|Drama|History|War,2012,Lincoln,"['Biography', 'Drama', 'History', 'War']",4,7.578703703703703,432
-14676,443274,Vantage Point (2008),Action|Crime|Drama|Mystery|Thriller,2008,Vantage Point,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",5,7.032258064516129,62
-14680,443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Comedy,2006,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,['Comedy'],1,7.078651685393258,89
 14682,443465,Before We Go (2014),Comedy|Drama|Romance,2014,Before We Go,"['Comedy', 'Drama', 'Romance']",3,7.111111111111111,180
-14691,443543,The Illusionist (2006),Drama|Mystery|Romance|Thriller,2006,The Illusionist,"['Drama', 'Mystery', 'Romance', 'Thriller']",4,7.796407185628743,167
-14698,443680,The Assassination of Jesse James by the Coward Robert Ford (2007),Biography|Crime|Drama|History|Western,2007,The Assassination of Jesse James by the Coward Robert Ford,"['Biography', 'Crime', 'Drama', 'History', 'Western']",5,7.6953125,128
-14701,443706,Zodiac (2007),Crime|Drama|Mystery|Thriller,2007,Zodiac,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.68901303538175,537
-14730,445922,Across the Universe (2007),Drama|Fantasy|Music|Musical|Romance,2007,Across the Universe,"['Drama', 'Fantasy', 'Music', 'Musical', 'Romance']",5,8.075471698113208,53
 14738,446029,Scott Pilgrim vs. the World (2010),Action|Comedy|Fantasy|Romance,2010,Scott Pilgrim vs. the World,"['Action', 'Comedy', 'Fantasy', 'Romance']",4,7.789719626168225,214
-14755,446755,The Painted Veil (2006),Drama|Romance,2006,The Painted Veil,"['Drama', 'Romance']",2,7.538461538461538,52
-14763,448011,Knowing (2009),Action|Drama|Mystery|Sci-Fi|Thriller,2009,Knowing,"['Action', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",5,6.074626865671642,67
 14766,448115,Shazam! (2019),Action|Adventure|Comedy|Fantasy,2019,Shazam!,"['Action', 'Adventure', 'Comedy', 'Fantasy']",4,7.404160475482913,673
-14768,448134,Sunshine (2007),Adventure|Sci-Fi|Thriller,2007,Sunshine,"['Adventure', 'Sci-Fi', 'Thriller']",3,7.410526315789474,95
-14769,448157,Hancock (2008),Action|Drama|Fantasy,2008,Hancock,"['Action', 'Drama', 'Fantasy']",3,6.974137931034483,116
 14778,448694,Puss in Boots (2011),Animation|Action|Adventure|Comedy|Family|Fantasy,2011,Puss in Boots,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",6,6.52,50
-14781,449059,Little Miss Sunshine (2006),Comedy|Drama,2006,Little Miss Sunshine,"['Comedy', 'Drama']",2,7.9655172413793105,232
-14784,449088,Pirates of the Caribbean: At World's End (2007),Action|Adventure|Fantasy,2007,Pirates of the Caribbean: At World's End,"['Action', 'Adventure', 'Fantasy']",3,7.604838709677419,124
-14790,449467,Babel (2006),Drama,2006,Babel,['Drama'],1,7.746376811594203,138
-14801,450188,La Vie En Rose (2007),Biography|Drama|Music|Romance,2007,La Vie En Rose,"['Biography', 'Drama', 'Music', 'Romance']",4,8.5,78
-14804,450259,Blood Diamond (2006),Adventure|Drama|Thriller,2006,Blood Diamond,"['Adventure', 'Drama', 'Thriller']",3,8.290697674418604,344
-14811,450385,1408 (2007),Drama|Horror,2007,1408,"['Drama', 'Horror']",2,6.888888888888889,90
 14825,451279,Wonder Woman (2017),Action|Adventure|Fantasy|Sci-Fi|War,2017,Wonder Woman,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'War']",5,7.540783034257749,1226
-14839,452608,Death Race (2008),Action|Sci-Fi|Thriller,2008,Death Race,"['Action', 'Sci-Fi', 'Thriller']",3,6.875,56
-14840,452623,Gone Baby Gone (2007),Crime|Drama|Mystery|Thriller,2007,Gone Baby Gone,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.7821428571428575,280
-14850,452694,The Time Traveler's Wife (2009),Drama|Fantasy|Romance|Sci-Fi,2009,The Time Traveler's Wife,"['Drama', 'Fantasy', 'Romance', 'Sci-Fi']",4,7.1265822784810124,79
-14861,453467,Deja Vu (2006),Action|Crime|Sci-Fi|Thriller,2006,Deja Vu,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",4,7.63063063063063,111
 14866,453562,42 (2013),Biography|Drama|Sport,2013,42,"['Biography', 'Drama', 'Sport']",3,8.041994750656167,381
-14881,454841,The Hills Have Eyes (2006),Horror|Thriller,2006,The Hills Have Eyes,"['Horror', 'Thriller']",2,6.622641509433962,53
-14882,454848,Inside Man (2006),Crime|Drama|Mystery|Thriller,2006,Inside Man,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.531645569620253,237
 14884,454876,Life of Pi (2012),Adventure|Drama|Fantasy,2012,Life of Pi,"['Adventure', 'Drama', 'Fantasy']",3,8.148535564853557,956
-14886,454921,The Pursuit of Happyness (2006),Biography|Drama,2006,The Pursuit of Happyness,"['Biography', 'Drama']",2,8.587570621468927,354
 14899,455407,The Crazies (2010),Horror|Thriller,2010,The Crazies,"['Horror', 'Thriller']",2,6.811594202898551,69
-14904,455590,The Last King of Scotland (2006),Biography|Drama|History|Thriller,2006,The Last King of Scotland,"['Biography', 'Drama', 'History', 'Thriller']",4,7.55,100
-14906,455760,Dead Silence (2007),Horror|Mystery,2007,Dead Silence,"['Horror', 'Mystery']",2,6.290909090909091,55
 14913,455944,The Equalizer (2014),Action|Crime|Thriller,2014,The Equalizer,"['Action', 'Crime', 'Thriller']",3,7.432258064516129,1085
-14954,457430,Pan's Labyrinth (2006),Drama|Fantasy|War,2006,Pan's Labyrinth,"['Drama', 'Fantasy', 'War']",3,8.3003003003003,333
-14963,457939,The Holiday (2006),Comedy|Romance,2006,The Holiday,"['Comedy', 'Romance']",2,7.434782608695652,115
 14966,458339,Captain America: The First Avenger (2011),Action|Adventure|Sci-Fi,2011,Captain America: The First Avenger,"['Action', 'Adventure', 'Sci-Fi']",3,6.937751004016064,498
-14967,458352,The Devil Wears Prada (2006),Comedy|Drama,2006,The Devil Wears Prada,"['Comedy', 'Drama']",2,7.371621621621622,148
 14970,458413,A Long Way Down (2014),Comedy|Drama,2014,A Long Way Down,"['Comedy', 'Drama']",2,6.322314049586777,121
 14975,458481,Sin City: A Dame to Kill For (2014),Crime|Thriller,2014,Sin City: A Dame to Kill For,"['Crime', 'Thriller']",2,6.688311688311688,385
-14977,458525,X-Men Origins: Wolverine (2009),Action|Adventure|Sci-Fi|Thriller,2009,X-Men Origins: Wolverine,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,6.909090909090909,231
-14994,460740,Cashback (2006),Comedy|Drama|Romance,2006,Cashback,"['Comedy', 'Drama', 'Romance']",3,7.0344827586206895,58
-14999,460791,The Fall (2006),Adventure|Drama|Fantasy,2006,The Fall,"['Adventure', 'Drama', 'Fantasy']",3,8.125,64
 15028,462335,High-Rise (2015),Drama|Horror|Sci-Fi,2015,High-Rise,"['Drama', 'Horror', 'Sci-Fi']",3,5.829787234042553,94
-15038,462499,Rambo (2008),Action|Thriller|War,2008,Rambo,"['Action', 'Thriller', 'War']",3,7.015384615384615,65
-15039,462504,Rescue Dawn (2006),Action|Adventure|Biography|Drama|War,2006,Rescue Dawn,"['Action', 'Adventure', 'Biography', 'Drama', 'War']",5,7.213483146067416,89
-15041,462538,The Simpsons Movie (2007),Animation|Adventure|Comedy,2007,The Simpsons Movie,"['Animation', 'Adventure', 'Comedy']",3,7.415094339622642,53
-15057,463854,28 Weeks Later (2007),Drama|Horror|Sci-Fi,2007,28 Weeks Later,"['Drama', 'Horror', 'Sci-Fi']",3,6.981132075471698,106
-15061,463985,The Fast and the Furious: Tokyo Drift (2006),Action|Crime|Thriller,2006,The Fast and the Furious: Tokyo Drift,"['Action', 'Crime', 'Thriller']",3,6.448979591836735,98
-15062,463998,Freedom Writers (2007),Biography|Crime|Drama,2007,Freedom Writers,"['Biography', 'Crime', 'Drama']",3,8.209677419354838,62
-15067,464141,El orfanato (2007),Drama|Horror|Mystery|Thriller,2007,El orfanato,"['Drama', 'Horror', 'Mystery', 'Thriller']",4,7.432098765432099,81
-15082,465494,Hitman (2007),Action|Crime|Thriller,2007,Hitman,"['Action', 'Crime', 'Thriller']",3,6.842105263157895,57
-15086,465538,Michael Clayton (2007),Crime|Drama|Mystery|Thriller,2007,Michael Clayton,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.333333333333333,72
-15087,465551,Notes on a Scandal (2006),Crime|Drama|Romance|Thriller,2006,Notes on a Scandal,"['Crime', 'Drama', 'Romance', 'Thriller']",4,7.637931034482759,58
-15089,465580,Push (2009),Action|Sci-Fi|Thriller,2009,Push,"['Action', 'Sci-Fi', 'Thriller']",3,6.9,50
-15114,467200,The Other Boleyn Girl (2008),Biography|Drama|History|Romance,2008,The Other Boleyn Girl,"['Biography', 'Drama', 'History', 'Romance']",4,7.321428571428571,56
-15115,467406,Juno (2007),Comedy|Drama,2007,Juno,"['Comedy', 'Drama']",2,7.577464788732394,142
-15120,468489,Half Nelson (2006),Drama,2006,Half Nelson,['Drama'],1,7.271428571428571,70
-15121,468492,Gwoemul (2006),Action|Drama|Horror|Sci-Fi,2006,Gwoemul,"['Action', 'Drama', 'Horror', 'Sci-Fi']",4,7.573770491803279,61
-15125,468569,The Dark Knight (2008),Action|Crime|Drama|Thriller,2008,The Dark Knight,"['Action', 'Crime', 'Drama', 'Thriller']",4,9.278755074424899,739
 15130,469021,Alan Partridge: Alpha Papa (2013),Action|Comedy|Crime,2013,Alan Partridge: Alpha Papa,"['Action', 'Comedy', 'Crime']",3,7.470833333333333,240
-15136,469494,There Will Be Blood (2007),Drama,2007,There Will Be Blood,['Drama'],1,8.458333333333334,528
 15152,470752,Ex Machina (2014),Drama|Mystery|Sci-Fi|Thriller,2014,Ex Machina,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",4,7.647058823529412,1088
 15163,471042,Tower Heist (2011),Action|Comedy|Crime,2011,Tower Heist,"['Action', 'Comedy', 'Crime']",3,6.396039603960396,101
-15169,472033,9 (2009),Animation|Action|Adventure|Sci-Fi,2009,9,"['Animation', 'Action', 'Adventure', 'Sci-Fi']",4,6.944444444444445,54
-15170,472043,Apocalypto (2006),Action|Adventure|Drama|Thriller,2006,Apocalypto,"['Action', 'Adventure', 'Drama', 'Thriller']",4,7.949579831932773,119
-15171,472062,Charlie Wilson's War (2007),Biography|Comedy|Drama|History,2007,Charlie Wilson's War,"['Biography', 'Comedy', 'Drama', 'History']",4,7.1098901098901095,91
 15181,472399,The Mechanic (2011),Action|Crime|Thriller,2011,The Mechanic,"['Action', 'Crime', 'Thriller']",3,6.72289156626506,83
 15188,473075,Prince of Persia: The Sands of Time (2010),Action|Adventure|Fantasy,2010,Prince of Persia: The Sands of Time,"['Action', 'Adventure', 'Fantasy']",3,6.712328767123288,73
-15207,473705,State of Play (2009),Crime|Drama|Mystery|Thriller,2009,State of Play,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.265060240963855,83
-15218,475276,United 93 (2006),Drama|History|Thriller,2006,United 93,"['Drama', 'History', 'Thriller']",3,7.828125,64
 15220,475290,"Hail, Caesar! (2016)",Comedy|Drama|Music|Mystery,2016,"Hail, Caesar!","['Comedy', 'Drama', 'Music', 'Mystery']",4,6.322683706070287,313
 15259,477080,Unstoppable (2010),Action|Thriller,2010,Unstoppable,"['Action', 'Thriller']",2,7.153846153846154,130
 15264,477302,Extremely Loud &amp; Incredibly Close (2011),Adventure|Drama|Mystery,2011,Extremely Loud &amp; Incredibly Close,"['Adventure', 'Drama', 'Mystery']",3,7.682758620689655,145
-15265,477347,Night at the Museum (2006),Adventure|Comedy|Family|Fantasy,2006,Night at the Museum,"['Adventure', 'Comedy', 'Family', 'Fantasy']",4,7.03125,64
-15266,477348,No Country for Old Men (2007),Crime|Drama|Thriller,2007,No Country for Old Men,"['Crime', 'Drama', 'Thriller']",3,8.0703125,640
-15275,478087,21 (2008),Crime|Drama|History|Thriller,2008,21,"['Crime', 'Drama', 'History', 'Thriller']",4,7.154545454545454,110
 15286,478304,The Tree of Life (2011),Drama|Fantasy,2011,The Tree of Life,"['Drama', 'Fantasy']",2,7.057553956834532,139
-15287,478311,Knocked Up (2007),Comedy|Drama|Romance,2007,Knocked Up,"['Comedy', 'Drama', 'Romance']",3,7.090909090909091,88
 15297,478970,Ant-Man (2015),Action|Adventure|Comedy|Sci-Fi,2015,Ant-Man,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",4,7.58972503617945,1382
-15303,479143,Rocky Balboa (2006),Drama|Sport,2006,Rocky Balboa,"['Drama', 'Sport']",2,7.421686746987952,83
-15322,479884,Crank (2006),Action|Crime|Thriller,2006,Crank,"['Action', 'Crime', 'Thriller']",3,6.636363636363637,66
-15328,480025,This Is England (2006),Crime|Drama,2006,This Is England,"['Crime', 'Drama']",2,7.685714285714286,70
-15331,480242,Dan in Real Life (2007),Comedy|Drama|Romance,2007,Dan in Real Life,"['Comedy', 'Drama', 'Romance']",3,6.981132075471698,53
-15332,480249,I Am Legend (2007),Drama|Sci-Fi|Thriller,2007,I Am Legend,"['Drama', 'Sci-Fi', 'Thriller']",3,7.550802139037433,187
-15347,481369,The Number 23 (2007),Crime|Mystery|Thriller,2007,The Number 23,"['Crime', 'Mystery', 'Thriller']",3,6.382352941176471,68
 15348,481499,The Croods (2013),Animation|Action|Adventure|Comedy|Family|Fantasy,2013,The Croods,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",6,7.584873949579832,595
-15361,482571,The Prestige (2006),Drama|Mystery|Sci-Fi|Thriller,2006,The Prestige,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",4,8.897843359818388,881
-15366,482606,The Strangers (2008),Horror|Mystery|Thriller,2008,The Strangers,"['Horror', 'Mystery', 'Thriller']",3,6.295774647887324,71
-15414,485947,Mr. Nobody (2009),Drama|Fantasy|Romance|Sci-Fi,2009,Mr. Nobody,"['Drama', 'Fantasy', 'Romance', 'Sci-Fi']",4,7.96078431372549,255
-15424,486576,4: Rise of the Silver Surfer (2007),Action|Adventure|Fantasy|Sci-Fi,2007,4: Rise of the Silver Surfer,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,6.014705882352941,68
-15431,486655,Stardust (2007),Adventure|Family|Fantasy|Romance,2007,Stardust,"['Adventure', 'Family', 'Fantasy', 'Romance']",4,7.743243243243243,74
-15436,486822,Disturbia (2007),Crime|Drama|Mystery|Thriller,2007,Disturbia,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.157303370786517,89
-15444,488120,Fracture (2007),Crime|Drama|Mystery|Thriller,2007,Fracture,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.581081081081081,222
-15469,489099,Jumper (2008),Action|Adventure|Sci-Fi|Thriller,2008,Jumper,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,6.511363636363637,88
 15490,490215,Silence (2016),Adventure|Drama|History,2016,Silence,"['Adventure', 'Drama', 'History']",3,7.466453674121405,313
 15503,491175,Suburbicon (2017),Comedy|Crime|Drama|Mystery|Thriller,2017,Suburbicon,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",5,5.963855421686747,83
 15536,493405,CHIPS (2017),Action|Comedy|Crime,2017,CHIPS,"['Action', 'Comedy', 'Crime']",3,6.298076923076923,104
-15545,493464,Wanted (2008),Action|Crime|Fantasy|Thriller,2008,Wanted,"['Action', 'Crime', 'Fantasy', 'Thriller']",4,6.954954954954955,111
-15575,496806,Ocean's Thirteen (2007),Crime|Thriller,2007,Ocean's Thirteen,"['Crime', 'Thriller']",2,7.188679245283019,106
-15584,497465,Vicky Cristina Barcelona (2008),Comedy|Drama|Romance,2008,Vicky Cristina Barcelona,"['Comedy', 'Drama', 'Romance']",3,7.162162162162162,111
-15597,498380,Letters from Iwo Jima (2006),Drama|History|War,2006,Letters from Iwo Jima,"['Drama', 'History', 'War']",3,8.166666666666666,54
 15598,498381,Rings (2017),Drama|Horror|Mystery|Romance|Thriller,2017,Rings,"['Drama', 'Horror', 'Mystery', 'Romance', 'Thriller']",5,4.533898305084746,118
-15616,499549,Avatar (2009),Action|Adventure|Fantasy|Sci-Fi,2009,Avatar,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,8.202970297029703,202
-15624,756683,The Man from Earth (2007),Drama|Fantasy|Sci-Fi,2007,The Man from Earth,"['Drama', 'Fantasy', 'Sci-Fi']",3,8.0,168
-15636,758746,Friday the 13th (2009),Horror|Mystery|Thriller,2009,Friday the 13th,"['Horror', 'Mystery', 'Thriller']",3,5.567164179104478,67
 15637,758752,Love &amp; Other Drugs (2010),Comedy|Drama|Romance,2010,Love &amp; Other Drugs,"['Comedy', 'Drama', 'Romance']",3,7.0,136
-15639,758758,Into the Wild (2007),Adventure|Biography|Drama,2007,Into the Wild,"['Adventure', 'Biography', 'Drama']",3,8.344195519348268,491
-15642,758774,Body of Lies (2008),Action|Drama|Thriller,2008,Body of Lies,"['Action', 'Drama', 'Thriller']",3,7.22,150
-15673,765010,Brothers (2009),Drama|War,2009,Brothers,"['Drama', 'War']",2,7.536764705882353,136
-15677,765429,American Gangster (2007),Biography|Crime|Drama|Thriller,2007,American Gangster,"['Biography', 'Crime', 'Drama', 'Thriller']",4,8.221739130434782,230
-15681,765443,Eastern Promises (2007),Crime|Drama|Thriller,2007,Eastern Promises,"['Crime', 'Drama', 'Thriller']",3,7.769230769230769,195
 15682,765446,Escape from Planet Earth (2013),Animation|Adventure|Comedy|Family|Sci-Fi,2013,Escape from Planet Earth,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",5,6.125,56
 15697,770802,Samsara (2011),Documentary|Music,2011,Samsara,"['Documentary', 'Music']",2,8.91304347826087,69
 15700,770828,Man of Steel (2013),Action|Adventure|Sci-Fi,2013,Man of Steel,"['Action', 'Adventure', 'Sci-Fi']",3,7.664317507418398,2696
 15712,775440,Cell (2016),Action|Drama|Horror|Sci-Fi|Thriller,2016,Cell,"['Action', 'Drama', 'Horror', 'Sci-Fi', 'Thriller']",5,3.6818181818181817,66
 15730,780504,Drive (2011),Crime|Drama,2011,Drive,"['Crime', 'Drama']",2,7.773123909249564,573
-15732,780511,Everybody's Fine (2009),Adventure|Drama,2009,Everybody's Fine,"['Adventure', 'Drama']",2,7.349206349206349,63
-15737,780536,In Bruges (2008),Comedy|Crime|Drama|Thriller,2008,In Bruges,"['Comedy', 'Crime', 'Drama', 'Thriller']",4,8.104918032786886,305
-15741,780571,Mr. Brooks (2007),Crime|Drama|Thriller,2007,Mr. Brooks,"['Crime', 'Drama', 'Thriller']",3,7.338235294117647,68
-15752,783233,Atonement (2007),Drama|Mystery|Romance|War,2007,Atonement,"['Drama', 'Mystery', 'Romance', 'War']",4,8.459375,320
 15761,783640,The Last Full Measure (2019),Drama|War,2019,The Last Full Measure,"['Drama', 'War']",2,6.946859903381642,207
 15774,787474,The Boxtrolls (2014),Animation|Adventure|Comedy|Family|Fantasy,2014,The Boxtrolls,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,6.687022900763359,131
 15778,787524,The Man Who Knew Infinity (2015),Biography|Drama,2015,The Man Who Knew Infinity,"['Biography', 'Drama']",2,7.4363636363636365,165
@@ -464,109 +59,58 @@
 15786,790636,Dallas Buyers Club (2013),Biography|Drama,2013,Dallas Buyers Club,"['Biography', 'Drama']",2,8.06424747174301,1681
 15794,790724,Jack Reacher (2012),Action|Crime|Thriller,2012,Jack Reacher,"['Action', 'Crime', 'Thriller']",3,7.029481132075472,848
 15795,790736,R.I.P.D. (2013),Action|Adventure|Comedy|Fantasy|Sci-Fi,2013,R.I.P.D.,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",5,5.559912854030501,459
-15816,795351,Case 39 (2009),Horror|Mystery|Thriller,2009,Case 39,"['Horror', 'Mystery', 'Thriller']",3,6.323076923076923,65
-15818,795368,Death at a Funeral (2007),Comedy,2007,Death at a Funeral,['Comedy'],1,7.223880597014926,67
-15823,795421,Mamma Mia! (2008),Comedy|Musical|Romance,2008,Mamma Mia!,"['Comedy', 'Musical', 'Romance']",3,7.052631578947368,76
 15829,795461,Scary Movie 5 (2013),Comedy,2013,Scary Movie 5,['Comedy'],1,3.808080808080808,198
-15840,796366,Star Trek (2009),Action|Adventure|Sci-Fi,2009,Star Trek,"['Action', 'Adventure', 'Sci-Fi']",3,8.142424242424243,330
-15853,800039,Forgetting Sarah Marshall (2008),Comedy|Drama|Romance,2008,Forgetting Sarah Marshall,"['Comedy', 'Drama', 'Romance']",3,7.340909090909091,88
-15855,800080,The Incredible Hulk (2008),Action|Adventure|Sci-Fi,2008,The Incredible Hulk,"['Action', 'Adventure', 'Sci-Fi']",3,6.589743589743589,273
 15863,800320,Clash of the Titans (2010),Action|Adventure|Fantasy,2010,Clash of the Titans,"['Action', 'Adventure', 'Fantasy']",3,6.486486486486487,74
 15864,800325,The Dirt (2019),Biography|Comedy|Drama|Music,2019,The Dirt,"['Biography', 'Comedy', 'Drama', 'Music']",4,7.037735849056604,53
 15867,800369,Thor (2011),Action|Adventure|Fantasy|Sci-Fi,2011,Thor,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,7.256457564575646,542
 15876,803096,Warcraft (2016),Action|Adventure|Fantasy,2016,Warcraft,"['Action', 'Adventure', 'Fantasy']",3,6.8494208494208495,518
 15880,804463,Devil's Knot (2013),Biography|Crime|Drama|Thriller,2013,Devil's Knot,"['Biography', 'Crime', 'Drama', 'Thriller']",4,6.243243243243243,74
 15882,804497,It's Kind of a Funny Story (2010),Comedy|Drama|Romance,2010,It's Kind of a Funny Story,"['Comedy', 'Drama', 'Romance']",3,7.463768115942029,138
-15893,805564,Lars and the Real Girl (2007),Comedy|Drama|Romance,2007,Lars and the Real Girl,"['Comedy', 'Drama', 'Romance']",3,7.661417322834645,127
-15913,808151,Angels &amp; Demons (2009),Mystery|Thriller,2009,Angels &amp; Demons,"['Mystery', 'Thriller']",2,7.189542483660131,153
-15935,808506,Toki o kakeru shôjo (2006),Animation|Adventure|Comedy|Drama|Mystery|Romance|Sci-Fi,2006,Toki o kakeru shôjo,"['Animation', 'Adventure', 'Comedy', 'Drama', 'Mystery', 'Romance', 'Sci-Fi']",7,8.047619047619047,63
 15948,810819,The Danish Girl (2015),Biography|Drama|Romance,2015,The Danish Girl,"['Biography', 'Drama', 'Romance']",3,7.1181262729124235,491
 15978,814255,Percy Jackson &amp; the Olympians: The Lightning Thief (2010),Adventure|Family|Fantasy,2010,Percy Jackson &amp; the Olympians: The Lightning Thief,"['Adventure', 'Family', 'Fantasy']",3,6.3076923076923075,78
-15979,814314,Seven Pounds (2008),Drama|Romance,2008,Seven Pounds,"['Drama', 'Romance']",2,8.164893617021276,188
 15996,816442,The Book Thief (2013),Drama|War,2013,The Book Thief,"['Drama', 'War']",2,7.815834767641997,581
 16005,816692,Interstellar (2014),Adventure|Drama|Sci-Fi,2014,Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",3,8.84527027027027,2960
 16006,816711,World War Z (2013),Action|Adventure|Horror|Sci-Fi|Thriller,2013,World War Z,"['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller']",5,7.30152200740436,2431
 16007,817177,Flipped (2010),Comedy|Drama|Romance,2010,Flipped,"['Comedy', 'Drama', 'Romance']",3,7.952941176470588,85
-16035,822832,Marley &amp; Me (2008),Comedy|Drama|Family,2008,Marley &amp; Me,"['Comedy', 'Drama', 'Family']",3,7.3768115942028984,69
-16038,822854,Shooter (2007),Action|Drama|Thriller,2007,Shooter,"['Action', 'Drama', 'Thriller']",3,7.6092715231788075,151
-16044,824747,Changeling (2008),Biography|Crime|Drama|History|Mystery|Thriller,2008,Changeling,"['Biography', 'Crime', 'Drama', 'History', 'Mystery', 'Thriller']",6,8.256637168141593,226
-16047,825232,The Bucket List (2007),Adventure|Comedy|Drama,2007,The Bucket List,"['Adventure', 'Comedy', 'Drama']",3,7.796875,256
 16069,829150,Dracula Untold (2014),Action|Drama|Fantasy|Horror|War,2014,Dracula Untold,"['Action', 'Drama', 'Fantasy', 'Horror', 'War']",5,6.302211302211302,407
-16073,829482,Superbad (2007),Comedy,2007,Superbad,['Comedy'],1,7.673469387755102,245
-16074,830515,Quantum of Solace (2008),Action|Adventure|Thriller,2008,Quantum of Solace,"['Action', 'Adventure', 'Thriller']",3,6.537931034482758,145
 16082,831387,Godzilla (2014),Action|Adventure|Sci-Fi|Thriller,2014,Godzilla,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,6.660958904109589,1460
-16086,832266,"Definitely, Maybe (2008)",Comedy|Drama|Romance,2008,"Definitely, Maybe","['Comedy', 'Drama', 'Romance']",3,7.518072289156627,83
 16110,837562,Hotel Transylvania (2012),Animation|Comedy|Family|Fantasy|Horror,2012,Hotel Transylvania,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",5,7.226244343891403,221
 16111,837563,Pet Sematary (2019),Horror|Mystery|Thriller,2019,Pet Sematary,"['Horror', 'Mystery', 'Thriller']",3,5.776223776223776,143
-16117,838221,The Darjeeling Limited (2007),Adventure|Comedy|Drama,2007,The Darjeeling Limited,"['Adventure', 'Comedy', 'Drama']",3,7.4921875,128
-16120,838283,Step Brothers (2008),Comedy,2008,Step Brothers,['Comedy'],1,7.068627450980392,102
 16129,840361,The Town (2010),Crime|Drama|Thriller,2010,The Town,"['Crime', 'Drama', 'Thriller']",3,7.71875,320
 16138,842926,The Kids Are All Right (2010),Comedy|Drama|Romance,2010,The Kids Are All Right,"['Comedy', 'Drama', 'Romance']",3,7.109589041095891,73
-16148,844471,Cloudy with a Chance of Meatballs (2009),Animation|Adventure|Comedy|Family|Fantasy|Sci-Fi,2009,Cloudy with a Chance of Meatballs,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']",6,7.327433628318584,113
-16149,844479,The Collector (2009),Horror|Thriller,2009,The Collector,"['Horror', 'Thriller']",2,6.807017543859649,57
 16173,848228,The Avengers (2012),Action|Adventure|Sci-Fi,2012,The Avengers,"['Action', 'Adventure', 'Sci-Fi']",3,8.179245283018869,636
 16175,848537,Epic (2013),Animation|Adventure|Family|Fantasy|Thriller,2013,Epic,"['Animation', 'Adventure', 'Family', 'Fantasy', 'Thriller']",5,6.763513513513513,296
-16184,851578,Papurika (2006),Animation|Drama|Fantasy|Mystery|Sci-Fi|Thriller,2006,Papurika,"['Animation', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi', 'Thriller']",6,7.823529411764706,68
 16204,857190,The Sweeney (2012),Action|Crime|Drama,2012,The Sweeney,"['Action', 'Crime', 'Drama']",3,6.349397590361446,83
-16226,861739,Tropa de Elite (2007),Action|Crime|Drama|Thriller,2007,Tropa de Elite,"['Action', 'Crime', 'Drama', 'Thriller']",4,7.8088235294117645,68
-16230,862856,Trick 'r Treat (2007),Comedy|Horror,2007,Trick 'r Treat,"['Comedy', 'Horror']",2,6.786885245901639,61
 16238,864835,Mr. Peabody &amp; Sherman (2014),Animation|Adventure|Comedy|Family|Sci-Fi,2014,Mr. Peabody &amp; Sherman,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",5,7.257142857142857,175
-16257,870111,Frost/Nixon (2008),Biography|Drama|History,2008,Frost/Nixon,"['Biography', 'Drama', 'History']",3,8.253968253968255,63
 16258,870154,Jungle Cruise (2021),Action|Adventure|Comedy,2021,Jungle Cruise,"['Action', 'Adventure', 'Comedy']",3,6.737373737373737,99
-16267,870984,Antichrist (2009),Drama|Horror,2009,Antichrist,"['Drama', 'Horror']",2,6.306666666666667,75
 16275,873886,Red State (2011),Action|Crime|Horror|Thriller,2011,Red State,"['Action', 'Crime', 'Horror', 'Thriller']",4,6.574074074074074,54
-16286,876563,Gake no ue no Ponyo (2008),Animation|Adventure|Comedy|Family|Fantasy,2008,Gake no ue no Ponyo,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,7.919540229885057,87
-16291,878804,The Blind Side (2009),Biography|Drama|Sport,2009,The Blind Side,"['Biography', 'Drama', 'Sport']",3,8.282229965156795,287
 16294,879870,Eat Pray Love (2010),Drama|Romance,2010,Eat Pray Love,"['Drama', 'Romance']",2,6.663265306122449,98
 16312,882977,Snitch (2013),Action|Drama|Thriller,2013,Snitch,"['Action', 'Drama', 'Thriller']",3,6.811764705882353,340
-16319,884328,The Mist (2007),Horror|Sci-Fi,2007,The Mist,"['Horror', 'Sci-Fi']",2,7.15625,192
 16322,884732,The Wedding Ringer (2015),Comedy,2015,The Wedding Ringer,['Comedy'],1,7.134146341463414,246
-16330,887883,Burn After Reading (2008),Comedy|Crime|Drama|Thriller,2008,Burn After Reading,"['Comedy', 'Crime', 'Drama', 'Thriller']",4,7.012987012987013,154
-16331,887912,The Hurt Locker (2008),Drama|Thriller|War,2008,The Hurt Locker,"['Drama', 'Thriller', 'War']",3,7.741293532338308,201
 16334,889573,The Switch (2010),Comedy|Drama|Romance,2010,The Switch,"['Comedy', 'Drama', 'Romance']",3,6.333333333333333,54
 16354,892769,How to Train Your Dragon (2010),Animation|Action|Adventure|Family|Fantasy,2010,How to Train Your Dragon,"['Animation', 'Action', 'Adventure', 'Family', 'Fantasy']",5,8.364016736401673,239
-16376,898367,The Road (2009),Adventure|Drama,2009,The Road,"['Adventure', 'Drama']",2,7.13,200
 16382,900387,Suite française (2014),Drama|Romance|War,2014,Suite française,"['Drama', 'Romance', 'War']",3,7.159420289855072,69
 16398,903624,The Hobbit: An Unexpected Journey (2012),Adventure|Family|Fantasy,2012,The Hobbit: An Unexpected Journey,"['Adventure', 'Family', 'Fantasy']",3,7.888166449934981,769
 16400,903657,Love &amp; Mercy (2014),Biography|Drama|Music,2014,Love &amp; Mercy,"['Biography', 'Drama', 'Music']",3,7.6752136752136755,117
 16405,905372,The Thing (2011),Horror|Mystery|Sci-Fi,2011,The Thing,"['Horror', 'Mystery', 'Sci-Fi']",3,6.242857142857143,70
-16415,907657,Once (2007),Drama|Music|Romance,2007,Once,"['Drama', 'Music', 'Romance']",3,7.7272727272727275,132
-16425,910936,Pineapple Express (2008),Action|Comedy|Crime,2008,Pineapple Express,"['Action', 'Comedy', 'Crime']",3,7.081632653061225,147
-16426,910970,WALL·E (2008),Animation|Adventure|Family|Sci-Fi,2008,WALL·E,"['Animation', 'Adventure', 'Family', 'Sci-Fi']",4,8.691943127962086,211
-16439,914798,The Boy in the Striped Pyjamas (2008),Drama|War,2008,The Boy in the Striped Pyjamas,"['Drama', 'War']",2,8.023166023166024,259
 16441,914863,Unthinkable (2010),Crime|Drama|Thriller,2010,Unthinkable,"['Crime', 'Drama', 'Thriller']",3,7.263888888888889,72
-16445,918927,Doubt (2008),Drama|Mystery,2008,Doubt,"['Drama', 'Mystery']",2,7.628571428571429,105
 16446,918940,The Legend of Tarzan (2016),Action|Adventure|Drama|Fantasy|Romance,2016,The Legend of Tarzan,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",5,6.357438016528926,484
 16473,926084,Harry Potter and the Deathly Hallows: Part 1 (2010),Adventure|Fantasy|Mystery,2010,Harry Potter and the Deathly Hallows: Part 1,"['Adventure', 'Fantasy', 'Mystery']",3,8.211340206185566,194
-16489,929632,Precious (2009),Drama,2009,Precious,['Drama'],1,7.526881720430108,93
-16502,936501,Taken (2008),Action|Thriller,2008,Taken,"['Action', 'Thriller']",2,8.039647577092511,227
 16510,938330,Silent Hill: Revelation (2012),Horror,2012,Silent Hill: Revelation,['Horror'],1,5.076923076923077,104
-16521,942385,Tropic Thunder (2008),Action|Adventure|Comedy|War,2008,Tropic Thunder,"['Action', 'Adventure', 'Comedy', 'War']",4,7.516666666666667,120
 16526,944835,Salt (2010),Action|Mystery|Thriller,2010,Salt,"['Action', 'Mystery', 'Thriller']",3,7.020833333333333,144
 16529,945513,Source Code (2011),Action|Drama|Sci-Fi|Thriller,2011,Source Code,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",4,7.8459214501510575,331
 16532,947798,Black Swan (2010),Drama|Thriller,2010,Black Swan,"['Drama', 'Thriller']",2,8.23820754716981,424
 16534,947810,Green Zone (2010),Action|Drama|Thriller|War,2010,Green Zone,"['Action', 'Drama', 'Thriller', 'War']",4,6.711864406779661,59
 16535,948470,The Amazing Spider-Man (2012),Action|Adventure|Sci-Fi,2012,The Amazing Spider-Man,"['Action', 'Adventure', 'Sci-Fi']",3,7.3040201005025125,398
-16542,949731,The Happening (2008),Mystery|Sci-Fi|Thriller,2008,The Happening,"['Mystery', 'Sci-Fi', 'Thriller']",3,4.726027397260274,73
 16559,955308,Robin Hood (2010),Action|Adventure|Drama|History|Romance,2010,Robin Hood,"['Action', 'Adventure', 'Drama', 'History', 'Romance']",5,7.129411764705883,85
-16564,959337,Revolutionary Road (2008),Drama|Romance,2008,Revolutionary Road,"['Drama', 'Romance']",2,7.672131147540983,244
 16599,964517,The Fighter (2010),Biography|Drama|Sport,2010,The Fighter,"['Biography', 'Drama', 'Sport']",3,7.931972789115647,294
 16613,970179,Hugo (2011),Adventure|Drama|Family|Fantasy|Mystery|Romance,2011,Hugo,"['Adventure', 'Drama', 'Family', 'Fantasy', 'Mystery', 'Romance']",6,7.834042553191489,235
 16634,974015,Justice League (2017),Action|Adventure|Fantasy|Sci-Fi,2017,Justice League,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,6.776923076923077,780
-16638,974661,17 Again (2009),Comedy|Drama|Fantasy,2009,17 Again,"['Comedy', 'Drama', 'Fantasy']",3,7.056179775280899,89
 16640,975645,Hitchcock (2012),Biography|Comedy|Drama|Romance,2012,Hitchcock,"['Biography', 'Comedy', 'Drama', 'Romance']",4,7.207357859531773,299
-16645,976051,The Reader (2008),Drama|Romance,2008,The Reader,"['Drama', 'Romance']",2,7.856209150326797,153
-16659,978762,Mary and Max (2009),Animation|Comedy|Drama,2009,Mary and Max,"['Animation', 'Comedy', 'Drama']",3,8.4070796460177,113
 16660,978764,Sucker Punch (2011),Action|Adventure|Fantasy,2011,Sucker Punch,"['Action', 'Adventure', 'Fantasy']",3,6.104651162790698,86
 16672,983193,The Adventures of Tintin (2011),Animation|Action|Adventure|Family|Mystery,2011,The Adventures of Tintin,"['Animation', 'Action', 'Adventure', 'Family', 'Mystery']",5,7.649122807017544,114
-16673,983213,Byôsoku 5 senchimêtoru (2007),Animation|Drama|Romance,2007,Byôsoku 5 senchimêtoru,"['Animation', 'Drama', 'Romance']",3,7.2,60
 16674,983946,Fantasy Island (2020),Adventure|Horror,2020,Fantasy Island,"['Adventure', 'Horror']",2,4.807017543859649,114
 16687,985694,Machete (2010),Action|Crime|Thriller,2010,Machete,"['Action', 'Crime', 'Thriller']",3,6.705882352941177,85
-16689,985699,Valkyrie (2008),Drama|History|Thriller|War,2008,Valkyrie,"['Drama', 'History', 'Thriller', 'War']",4,7.253807106598985,197
-16692,986233,Hunger (2008),Biography|Drama,2008,Hunger,"['Biography', 'Drama']",2,7.383458646616542,133
-16694,986263,Surrogates (2009),Action|Sci-Fi|Thriller,2009,Surrogates,"['Action', 'Sci-Fi', 'Thriller']",3,6.618181818181818,55
-16695,986264,Taare Zameen Par (2007),Drama|Family,2007,Taare Zameen Par,"['Drama', 'Family']",2,9.054545454545455,110
-16702,988045,Sherlock Holmes (2009),Action|Adventure|Crime|Mystery|Thriller,2009,Sherlock Holmes,"['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller']",5,7.945812807881773,203
 16708,989757,Dear John (2010),Drama|Romance|War,2010,Dear John,"['Drama', 'Romance', 'War']",3,6.619718309859155,71
 16712,990407,The Green Hornet (2011),Action|Comedy|Crime|Sci-Fi|Thriller,2011,The Green Hornet,"['Action', 'Comedy', 'Crime', 'Sci-Fi', 'Thriller']",5,5.461538461538462,65
 16722,993840,Army of the Dead (2021),Action|Crime|Horror|Sci-Fi|Thriller,2021,Army of the Dead,"['Action', 'Crime', 'Horror', 'Sci-Fi', 'Thriller']",5,5.76595744680851,141
@@ -574,141 +118,82 @@
 16724,993846,The Wolf of Wall Street (2013),Biography|Crime|Drama,2013,The Wolf of Wall Street,"['Biography', 'Crime', 'Drama']",3,8.391549295774649,2840
 16738,995868,Pelé: Birth of a Legend (2016),Biography|Drama|Sport,2016,Pelé: Birth of a Legend,"['Biography', 'Drama', 'Sport']",3,7.88,50
 16750,997152,The Experiment (2010),Drama|Thriller,2010,The Experiment,"['Drama', 'Thriller']",2,6.5,62
-16764,1001508,He&x27;s Just Not That Into You (2009),Comedy|Drama|Romance,2009,He&x27;s Just Not That Into You,"['Comedy', 'Drama', 'Romance']",3,6.961038961038961,77
 16765,1001526,Megamind (2010),Animation|Action|Comedy|Family|Sci-Fi,2010,Megamind,"['Animation', 'Action', 'Comedy', 'Family', 'Sci-Fi']",5,7.352941176470588,85
 16785,1007029,The Iron Lady (2011),Biography|Drama,2011,The Iron Lady,"['Biography', 'Drama']",2,6.86,100
-16787,1010048,Slumdog Millionaire (2008),Drama|Romance,2008,Slumdog Millionaire,"['Drama', 'Romance']",2,8.29946524064171,187
 16798,1013743,Knight and Day (2010),Action|Adventure|Comedy|Romance|Thriller,2010,Knight and Day,"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller']",5,6.567901234567901,81
-16799,1013752,Fast &amp; Furious (2009),Action|Crime|Thriller,2009,Fast &amp; Furious,"['Action', 'Crime', 'Thriller']",3,7.238938053097345,113
-16800,1013753,Milk (2008),Biography|Drama,2008,Milk,"['Biography', 'Drama']",2,7.63855421686747,83
 16805,1014759,Alice in Wonderland (2010),Adventure|Family|Fantasy,2010,Alice in Wonderland,"['Adventure', 'Family', 'Fantasy']",3,6.7889908256880735,109
 16807,1014763,Child 44 (2015),Crime|Drama|History|Thriller,2015,Child 44,"['Crime', 'Drama', 'History', 'Thriller']",4,6.604166666666667,192
 16828,1018765,Our Brand Is Crisis (2015),Comedy|Drama,2015,Our Brand Is Crisis,"['Comedy', 'Drama']",2,6.216867469879518,83
-16833,1019452,A Serious Man (2009),Comedy|Drama,2009,A Serious Man,"['Comedy', 'Drama']",2,6.881188118811881,101
 16837,1020072,Selma (2014),Biography|Drama|History,2014,Selma,"['Biography', 'Drama', 'History']",3,7.739376770538244,353
-16838,1020530,Eden Lake (2008),Horror|Thriller,2008,Eden Lake,"['Horror', 'Thriller']",2,6.506666666666667,75
 16855,1023114,The Way Back (2010),Adventure|Drama|History,2010,The Way Back,"['Adventure', 'Drama', 'History']",3,7.5576923076923075,156
 16863,1024648,Argo (2012),Biography|Drama|Thriller,2012,Argo,"['Biography', 'Drama', 'Thriller']",3,8.055837563451776,1182
 16872,1025100,Gemini Man (2019),Action|Drama|Sci-Fi|Thriller,2019,Gemini Man,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",4,5.0369127516778525,298
 16876,1027718,Wall Street: Money Never Sleeps (2010),Drama,2010,Wall Street: Money Never Sleeps,['Drama'],1,6.377358490566038,53
-16882,1028528,Death Proof (2007),Action|Thriller,2007,Death Proof,"['Action', 'Thriller']",2,7.176470588235294,153
-16883,1028532,Hachi: A Dog's Tale (2009),Drama|Family,2009,Hachi: A Dog's Tale,"['Drama', 'Family']",2,8.696428571428571,168
-16889,1029234,Martyrs (2008),Horror,2008,Martyrs,['Horror'],1,7.37037037037037,54
 16892,1029360,Poltergeist (2015),Horror|Thriller,2015,Poltergeist,"['Horror', 'Thriller']",2,5.115606936416185,173
-16900,1032755,RocknRolla (2008),Action|Crime|Thriller,2008,RocknRolla,"['Action', 'Crime', 'Thriller']",3,7.445454545454545,110
 16909,1033575,The Descendants (2011),Comedy|Drama,2011,The Descendants,"['Comedy', 'Drama']",2,7.612903225806452,186
-16917,1034303,Defiance (2008),Action|Drama|History|Thriller|War,2008,Defiance,"['Action', 'Drama', 'History', 'Thriller', 'War']",5,7.7560975609756095,82
 16919,1034314,Iron Sky (2012),Action|Comedy|Sci-Fi,2012,Iron Sky,"['Action', 'Comedy', 'Sci-Fi']",3,5.462962962962963,54
 16926,1034415,Suspiria (2018),Fantasy|Horror|Mystery|Thriller,2018,Suspiria,"['Fantasy', 'Horror', 'Mystery', 'Thriller']",4,6.841463414634147,82
 16939,1037705,The Book of Eli (2010),Action|Adventure|Drama|Thriller,2010,The Book of Eli,"['Action', 'Adventure', 'Drama', 'Thriller']",4,6.920289855072464,138
 16950,1038919,The Bounty Hunter (2010),Action|Comedy|Romance,2010,The Bounty Hunter,"['Action', 'Comedy', 'Romance']",3,6.293103448275862,58
-16952,1038988,[Rec] (2007),Horror|Mystery|Thriller,2007,[Rec],"['Horror', 'Mystery', 'Thriller']",3,7.126760563380282,71
-16964,1041829,The Proposal (2009),Comedy|Drama|Romance,2009,The Proposal,"['Comedy', 'Drama', 'Romance']",3,7.143884892086331,139
 16969,1043726,The Legend of Hercules (2014),Action|Adventure|Fantasy,2014,The Legend of Hercules,"['Action', 'Adventure', 'Fantasy']",3,4.5046728971962615,214
 16976,1045658,Silver Linings Playbook (2012),Comedy|Drama|Romance,2012,Silver Linings Playbook,"['Comedy', 'Drama', 'Romance']",3,8.132506527415144,1532
-16984,1046173,G.I. Joe: The Rise of Cobra (2009),Action|Adventure|Sci-Fi|Thriller,2009,G.I. Joe: The Rise of Cobra,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,5.728395061728395,81
 16996,1047540,Parental Guidance (2012),Comedy|Family,2012,Parental Guidance,"['Comedy', 'Family']",2,6.914634146341464,82
-17007,1049413,Up (2009),Animation|Adventure|Comedy|Family,2009,Up,"['Animation', 'Adventure', 'Comedy', 'Family']",4,8.345833333333333,240
 17014,1051904,Goosebumps (2015),Adventure|Comedy|Family|Fantasy|Horror,2015,Goosebumps,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Horror']",5,6.601010101010101,198
 17015,1051906,The Invisible Man (2020),Horror|Sci-Fi|Thriller,2020,The Invisible Man,"['Horror', 'Sci-Fi', 'Thriller']",3,7.172839506172839,486
 17032,1055292,Life as We Know It (2010),Comedy|Drama|Romance,2010,Life as We Know It,"['Comedy', 'Drama', 'Romance']",3,6.890410958904109,73
-17034,1055369,Transformers: Revenge of the Fallen (2009),Action|Adventure|Sci-Fi,2009,Transformers: Revenge of the Fallen,"['Action', 'Adventure', 'Sci-Fi']",3,6.62037037037037,108
-17043,1057500,Invictus (2009),Biography|Drama|History|Sport,2009,Invictus,"['Biography', 'Drama', 'History', 'Sport']",4,7.978260869565218,92
-17045,1058017,The Invention of Lying (2009),Comedy|Fantasy|Romance,2009,The Invention of Lying,"['Comedy', 'Fantasy', 'Romance']",3,6.728155339805825,103
-17049,1059786,Eagle Eye (2008),Action|Mystery|Thriller,2008,Eagle Eye,"['Action', 'Mystery', 'Thriller']",3,6.919354838709677,62
-17059,1060277,Cloverfield (2008),Action|Horror|Sci-Fi|Thriller,2008,Cloverfield,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",4,7.055555555555555,144
-17062,1063669,Die Welle (2008),Drama|Thriller,2008,Die Welle,"['Drama', 'Thriller']",2,7.576470588235294,85
 17069,1065073,Boyhood (2014),Drama,2014,Boyhood,['Drama'],1,8.093128390596744,1106
-17074,1067106,A Christmas Carol (2009),Animation|Drama|Family|Fantasy,2009,A Christmas Carol,"['Animation', 'Drama', 'Family', 'Fantasy']",4,7.218181818181818,55
 17075,1067583,Water for Elephants (2011),Drama|Romance,2011,Water for Elephants,"['Drama', 'Romance']",2,7.11864406779661,59
-17088,1068680,Yes Man (2008),Comedy|Romance,2008,Yes Man,"['Comedy', 'Romance']",2,6.977611940298507,134
-17092,1069238,Okuribito (2008),Drama|Music,2008,Okuribito,"['Drama', 'Music']",2,8.676923076923076,65
 17096,1070874,The Trial of the Chicago 7 (2020),Drama|History|Thriller,2020,The Trial of the Chicago 7,"['Drama', 'History', 'Thriller']",3,7.909090909090909,132
 17102,1071875,Ghost Rider: Spirit of Vengeance (2011),Action|Fantasy|Thriller,2011,Ghost Rider: Spirit of Vengeance,"['Action', 'Fantasy', 'Thriller']",3,4.148148148148148,54
 17105,1072748,Winchester (2018),Biography|Drama|Fantasy|Horror|Mystery|Thriller,2018,Winchester,"['Biography', 'Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller']",6,5.553846153846154,65
 17116,1074638,Skyfall (2012),Action|Adventure|Thriller,2012,Skyfall,"['Action', 'Adventure', 'Thriller']",3,7.724609375,512
-17126,1077258,Planet Terror (2007),Action|Comedy|Horror|Thriller,2007,Planet Terror,"['Action', 'Comedy', 'Horror', 'Thriller']",4,7.56,75
 17129,1077368,Dark Shadows (2012),Comedy|Fantasy|Horror,2012,Dark Shadows,"['Comedy', 'Fantasy', 'Horror']",3,6.419689119170984,193
-17132,1078588,My Sister's Keeper (2009),Drama|Family,2009,My Sister's Keeper,"['Drama', 'Family']",2,7.787878787878788,66
 17153,1082807,The Belko Experiment (2016),Horror|Thriller,2016,The Belko Experiment,"['Horror', 'Thriller']",2,6.075862068965518,145
 17157,1083452,Eddie the Eagle (2015),Biography|Comedy|Drama|Sport,2015,Eddie the Eagle,"['Biography', 'Comedy', 'Drama', 'Sport']",4,7.672597864768683,281
 17165,1085492,The Prince (2014),Action|Thriller,2014,The Prince,"['Action', 'Thriller']",2,4.813559322033898,59
 17175,1086772,Blended (2014),Comedy|Romance,2014,Blended,"['Comedy', 'Romance']",2,6.831428571428572,350
 17191,1091191,Lone Survivor (2013),Action|Biography|Drama|War,2013,Lone Survivor,"['Action', 'Biography', 'Drama', 'War']",4,7.8799621928166355,1058
-17194,1091722,Adventureland (2009),Comedy|Drama|Romance,2009,Adventureland,"['Comedy', 'Drama', 'Romance']",3,7.0,80
 17203,1092026,Paul (2011),Adventure|Comedy|Sci-Fi,2011,Paul,"['Adventure', 'Comedy', 'Sci-Fi']",3,7.179856115107913,139
-17243,1099212,Twilight (2008),Drama|Fantasy|Romance,2008,Twilight,"['Drama', 'Fantasy', 'Romance']",3,6.278350515463917,97
 17248,1100089,Foxcatcher (2014),Biography|Drama|Sport,2014,Foxcatcher,"['Biography', 'Drama', 'Sport']",3,7.102150537634409,558
-17256,1103275,Two Lovers (2008),Drama|Romance,2008,Two Lovers,"['Drama', 'Romance']",2,7.444444444444445,54
 17258,1104001,Tron (2010),Action|Adventure|Fantasy|Sci-Fi,2010,Tron,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",4,7.261682242990654,107
 17282,1109624,Paddington (2014),Adventure|Comedy|Family|Fantasy,2014,Paddington,"['Adventure', 'Comedy', 'Family', 'Fantasy']",4,7.363636363636363,264
-17285,1111422,The Taking of Pelham 123 (2009),Action|Crime|Thriller,2009,The Taking of Pelham 123,"['Action', 'Crime', 'Thriller']",3,7.0,93
-17303,1117385,Felon (2008),Crime|Drama,2008,Felon,"['Crime', 'Drama']",2,7.528301886792453,53
-17314,1119646,The Hangover (2009),Comedy,2009,The Hangover,['Comedy'],1,7.890625,320
 17317,1120985,Blue Valentine (2010),Drama|Romance,2010,Blue Valentine,"['Drama', 'Romance']",2,7.493212669683258,221
 17318,1121096,Seventh Son (2014),Action|Adventure|Fantasy,2014,Seventh Son,"['Action', 'Adventure', 'Fantasy']",3,5.410256410256411,156
 17327,1124035,The Ides of March (2011),Drama|Thriller,2011,The Ides of March,"['Drama', 'Thriller']",2,7.218390804597701,174
 17328,1124037,Free State of Jones (2016),Action|Biography|Drama|History|War,2016,Free State of Jones,"['Action', 'Biography', 'Drama', 'History', 'War']",5,7.20979020979021,143
-17339,1125849,The Wrestler (2008),Drama|Sport,2008,The Wrestler,"['Drama', 'Sport']",2,7.992753623188406,138
 17341,1126590,Big Eyes (2014),Biography|Crime|Drama|Romance,2014,Big Eyes,"['Biography', 'Crime', 'Drama', 'Romance']",4,7.463343108504398,341
 17344,1126618,Morning Glory (2010),Comedy|Drama|Romance,2010,Morning Glory,"['Comedy', 'Drama', 'Romance']",3,6.803921568627451,51
-17345,1127180,Drag Me to Hell (2009),Horror|Thriller,2009,Drag Me to Hell,"['Horror', 'Thriller']",2,6.506849315068493,73
 17368,1130884,Shutter Island (2010),Mystery|Thriller,2010,Shutter Island,"['Mystery', 'Thriller']",2,8.579651941097724,747
 17377,1131724,2:22 (2017),Thriller,2017,2:22,['Thriller'],1,6.365079365079365,63
-17381,1131734,Jennifer&x27;s Body (2009),Comedy|Horror,2009,Jennifer&x27;s Body,"['Comedy', 'Horror']",2,5.962264150943396,53
-17387,1132620,Män som hatar kvinnor (2009),Crime|Drama|Mystery|Thriller,2009,Män som hatar kvinnor,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,7.873563218390805,87
 17393,1133985,Green Lantern (2011),Action|Adventure|Sci-Fi,2011,Green Lantern,"['Action', 'Adventure', 'Sci-Fi']",3,5.837606837606837,117
 17403,1135084,Takers (2010),Action|Crime|Thriller,2010,Takers,"['Action', 'Crime', 'Thriller']",3,6.6461538461538465,65
-17408,1135503,Julie &amp; Julia (2009),Biography|Drama|Romance,2009,Julie &amp; Julia,"['Biography', 'Drama', 'Romance']",3,7.478260869565218,92
-17417,1136608,District 9 (2009),Action|Sci-Fi|Thriller,2009,District 9,"['Action', 'Sci-Fi', 'Thriller']",3,7.964444444444444,225
 17421,1137450,Death Wish (2018),Action|Crime|Drama|Thriller,2018,Death Wish,"['Action', 'Crime', 'Drama', 'Thriller']",4,6.520325203252033,123
 17431,1139328,The Ghost Writer (2010),Drama|Mystery|Thriller,2010,The Ghost Writer,"['Drama', 'Mystery', 'Thriller']",3,7.408450704225352,71
-17435,1139797,Låt den rätte komma in (2008),Drama|Horror|Romance,2008,Låt den rätte komma in,"['Drama', 'Horror', 'Romance']",3,7.829787234042553,94
 17445,1142977,Frankenweenie (2012),Animation|Comedy|Family|Horror|Sci-Fi,2012,Frankenweenie,"['Animation', 'Comedy', 'Family', 'Horror', 'Sci-Fi']",5,7.292929292929293,99
-17446,1142988,The Ugly Truth (2009),Comedy|Romance,2009,The Ugly Truth,"['Comedy', 'Romance']",2,6.40625,64
-17470,1148204,Orphan (2009),Horror|Mystery|Thriller,2009,Orphan,"['Horror', 'Mystery', 'Thriller']",3,7.404580152671755,131
-17494,1152836,Public Enemies (2009),Biography|Crime|Drama,2009,Public Enemies,"['Biography', 'Crime', 'Drama']",3,7.466367713004484,223
-17502,1155056,"I Love You, Man (2009)",Comedy|Romance,2009,"I Love You, Man","['Comedy', 'Romance']",2,7.247191011235955,89
 17504,1155076,The Karate Kid (2010),Action|Drama|Family|Romance|Sport,2010,The Karate Kid,"['Action', 'Drama', 'Family', 'Romance', 'Sport']",5,6.779220779220779,77
-17514,1156398,Zombieland (2009),Adventure|Comedy|Horror|Sci-Fi,2009,Zombieland,"['Adventure', 'Comedy', 'Horror', 'Sci-Fi']",4,7.5088967971530245,281
 17543,1160996,The Colony (2013),Action|Horror|Sci-Fi|Thriller,2013,The Colony,"['Action', 'Horror', 'Sci-Fi', 'Thriller']",4,5.601351351351352,148
 17551,1164999,Biutiful (2010),Drama|Romance,2010,Biutiful,"['Drama', 'Romance']",2,7.671052631578948,76
 17564,1170358,The Hobbit: The Desolation of Smaug (2013),Adventure|Fantasy,2013,The Hobbit: The Desolation of Smaug,"['Adventure', 'Fantasy']",2,8.14641375222288,1687
 17571,1172049,Demolition (2015),Comedy|Drama,2015,Demolition,"['Comedy', 'Drama']",2,7.209595959595959,396
-17576,1172570,Bronson (2008),Action|Biography|Crime|Drama,2008,Bronson,"['Action', 'Biography', 'Crime', 'Drama']",4,7.252688172043011,186
-17591,1174732,An Education (2009),Drama,2009,An Education,['Drama'],1,7.4935064935064934,77
 17596,1175709,All Good Things (2010),Crime|Drama|Mystery|Romance|Thriller,2010,All Good Things,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",5,6.540816326530612,98
-17616,1178663,Whatever Works (2009),Comedy|Romance,2009,Whatever Works,"['Comedy', 'Romance']",2,7.59375,64
 17617,1178665,A Walk in the Woods (2015),Adventure|Biography|Comedy|Drama,2015,A Walk in the Woods,"['Adventure', 'Biography', 'Comedy', 'Drama']",4,6.2407407407407405,54
 17619,1179031,Cold in July (2014),Crime|Thriller,2014,Cold in July,"['Crime', 'Thriller']",2,7.0181818181818185,165
 17620,1179034,From Paris with Love (2010),Action|Crime|Thriller,2010,From Paris with Love,"['Action', 'Crime', 'Thriller']",3,6.433962264150943,53
-17630,1179904,Paranormal Activity (2007),Horror|Mystery|Thriller,2007,Paranormal Activity,"['Horror', 'Mystery', 'Thriller']",3,6.796296296296297,54
 17631,1179933,10 Cloverfield Lane (2016),Drama|Horror|Mystery|Sci-Fi|Thriller,2016,10 Cloverfield Lane,"['Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",5,7.188106796116505,824
-17643,1182345,Moon (2009),Drama|Mystery|Sci-Fi,2009,Moon,"['Drama', 'Mystery', 'Sci-Fi']",3,7.644444444444445,270
 17644,1182350,You Will Meet a Tall Dark Stranger (2010),Comedy|Drama|Romance,2010,You Will Meet a Tall Dark Stranger,"['Comedy', 'Drama', 'Romance']",3,6.140350877192983,57
-17688,1186830,Agora (2009),Adventure|Biography|Drama|History|Romance,2009,Agora,"['Adventure', 'Biography', 'Drama', 'History', 'Romance']",5,7.383333333333334,60
-17691,1187043,3 Idiots (2009),Comedy|Drama,2009,3 Idiots,"['Comedy', 'Drama']",2,8.693965517241379,232
-17693,1187064,Triangle (2009),Fantasy|Mystery|Thriller,2009,Triangle,"['Fantasy', 'Mystery', 'Thriller']",3,7.034883720930233,86
-17695,1188729,Pandorum (2009),Action|Horror|Mystery|Sci-Fi|Thriller,2009,Pandorum,"['Action', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",5,6.735849056603773,53
 17703,1188996,My Name Is Khan (2010),Drama,2010,My Name Is Khan,['Drama'],1,8.845360824742269,97
 17705,1189073,La piel que habito (2011),Drama|Horror|Thriller,2011,La piel que habito,"['Drama', 'Horror', 'Thriller']",3,7.921985815602837,141
 17708,1189340,The Lincoln Lawyer (2011),Crime|Drama|Thriller,2011,The Lincoln Lawyer,"['Crime', 'Drama', 'Thriller']",3,7.734782608695652,230
-17711,1190080,2012 (2009),Action|Adventure|Sci-Fi,2009,2012,"['Action', 'Adventure', 'Sci-Fi']",3,5.979381443298969,97
-17713,1190539,Chugyeogja (2008),Action|Crime|Thriller,2008,Chugyeogja,"['Action', 'Crime', 'Thriller']",3,8.0,72
-17720,1191111,Enter the Void (2009),Drama|Fantasy,2009,Enter the Void,"['Drama', 'Fantasy']",2,7.884615384615385,52
 17723,1192628,Rango (2011),Animation|Adventure|Comedy|Family|Western,2011,Rango,"['Animation', 'Adventure', 'Comedy', 'Family', 'Western']",5,7.554216867469879,83
-17725,1193138,Up in the Air (2009),Comedy|Drama|Romance,2009,Up in the Air,"['Comedy', 'Drama', 'Romance']",3,7.577981651376147,218
 17733,1194173,The Bourne Legacy (2012),Action|Adventure|Thriller,2012,The Bourne Legacy,"['Action', 'Adventure', 'Thriller']",3,6.828326180257511,233
 17745,1195478,The Five-Year Engagement (2012),Comedy|Romance,2012,The Five-Year Engagement,"['Comedy', 'Romance']",2,6.481132075471698,106
 17751,1196948,The Necessary Death of Charlie Countryman (2013),Comedy|Drama|Romance|Thriller,2013,The Necessary Death of Charlie Countryman,"['Comedy', 'Drama', 'Romance', 'Thriller']",4,6.868131868131868,91
 17752,1196956,One Chance (2013),Biography|Comedy|Drama|Music,2013,One Chance,"['Biography', 'Comedy', 'Drama', 'Music']",4,6.87719298245614,57
-17753,1197624,Law Abiding Citizen (2009),Action|Crime|Drama|Thriller,2009,Law Abiding Citizen,"['Action', 'Crime', 'Drama', 'Thriller']",4,8.032967032967033,273
 17762,1198156,You're Not You (2014),Drama,2014,You're Not You,['Drama'],1,8.13265306122449,98
 17775,1201607,Harry Potter and the Deathly Hallows: Part 2 (2011),Adventure|Drama|Fantasy|Mystery,2011,Harry Potter and the Deathly Hallows: Part 2,"['Adventure', 'Drama', 'Fantasy', 'Mystery']",4,8.802867383512545,279
 17785,1204340,Tyrannosaur (2011),Drama,2011,Tyrannosaur,['Drama'],1,8.017241379310345,58
 17790,1204975,Last Vegas (2013),Comedy|Drama,2013,Last Vegas,"['Comedy', 'Drama']",2,6.832288401253918,638
 17791,1204977,Ouija (2014),Horror|Mystery|Thriller,2014,Ouija,"['Horror', 'Mystery', 'Thriller']",3,4.787671232876712,146
-17795,1205489,Gran Torino (2008),Drama,2008,Gran Torino,['Drama'],1,8.33957219251337,374
 17798,1205537,Jack Ryan: Shadow Recruit (2014),Action|Drama|Thriller,2014,Jack Ryan: Shadow Recruit,"['Action', 'Drama', 'Thriller']",3,6.442965779467681,526
 17806,1206543,Out of the Furnace (2013),Crime|Drama|Thriller,2013,Out of the Furnace,"['Crime', 'Drama', 'Thriller']",3,6.788546255506608,454
 17808,1206885,Rambo: Last Blood (2019),Action|Adventure|Thriller|Western,2019,Rambo: Last Blood,"['Action', 'Adventure', 'Thriller', 'Western']",4,7.311764705882353,340
@@ -723,15 +208,12 @@
 17852,1216475,Cars 2 (2011),Animation|Adventure|Comedy|Family|Sport,2011,Cars 2,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sport']",5,6.703125,64
 17854,1216491,Kill the Messenger (2014),Biography|Crime|Drama|Mystery|Thriller,2014,Kill the Messenger,"['Biography', 'Crime', 'Drama', 'Mystery', 'Thriller']",5,7.061797752808989,178
 17855,1216492,Leap Year (2010),Comedy|Romance,2010,Leap Year,"['Comedy', 'Romance']",2,6.542857142857143,70
-17856,1216496,Madeo (2009),Crime|Drama|Mystery|Thriller,2009,Madeo,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,8.05,60
 17860,1217209,Brave (2012),Animation|Adventure|Comedy|Family|Fantasy,2012,Brave,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",5,7.419753086419753,243
 17867,1217613,World Invasion: Battle Los Angeles (2011),Action|Sci-Fi,2011,World Invasion: Battle Los Angeles,"['Action', 'Sci-Fi']",2,6.193181818181818,88
 17870,1219289,Limitless (2011),Mystery|Sci-Fi|Thriller,2011,Limitless,"['Mystery', 'Sci-Fi', 'Thriller']",3,7.671018276762402,383
 17873,1219827,Ghost in the Shell (2017),Action|Drama|Sci-Fi|Thriller,2017,Ghost in the Shell,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",4,6.33096926713948,423
-17881,1220719,Yip Man (2008),Action|Biography|Drama|History,2008,Yip Man,"['Action', 'Biography', 'Drama', 'History']",4,8.347826086956522,138
 17906,1226229,Get Him to the Greek (2010),Adventure|Comedy|Music,2010,Get Him to the Greek,"['Adventure', 'Comedy', 'Music']",3,6.882352941176471,51
 17909,1226240,A Late Quartet (2012),Drama|Music,2012,A Late Quartet,"['Drama', 'Music']",2,7.48,75
-17910,1226271,The Damned United (2009),Biography|Drama|Sport,2009,The Damned United,"['Biography', 'Drama', 'Sport']",3,8.113924050632912,79
 17915,1226753,The Debt (2010),Drama|Thriller,2010,The Debt,"['Drama', 'Thriller']",2,7.14,50
 17918,1226837,Beautiful Boy (2018),Biography|Drama,2018,Beautiful Boy,"['Biography', 'Drama']",2,7.206060606060606,165
 17926,1228705,Iron Man 2 (2010),Action|Adventure|Sci-Fi,2010,Iron Man 2,"['Action', 'Adventure', 'Sci-Fi']",3,7.254988913525499,451
@@ -742,15 +224,11 @@
 17955,1231583,Due Date (2010),Adventure|Comedy,2010,Due Date,"['Adventure', 'Comedy']",2,7.138655462184874,238
 17957,1231587,Hot Tub Time Machine (2010),Comedy|Sci-Fi,2010,Hot Tub Time Machine,"['Comedy', 'Sci-Fi']",2,6.9423076923076925,52
 17960,1232200,That&x27;s My Boy (2012),Comedy,2012,That&x27;s My Boy,['Comedy'],1,5.910891089108911,101
-17964,1232776,Fish Tank (2009),Drama,2009,Fish Tank,['Drama'],1,7.454545454545454,55
 17968,1232829,21 Jump Street (2012),Action|Comedy|Crime,2012,21 Jump Street,"['Action', 'Comedy', 'Crime']",3,7.3039772727272725,352
-17992,1234548,The Men Who Stare at Goats (2009),Comedy|War,2009,The Men Who Stare at Goats,"['Comedy', 'War']",2,6.246153846153846,65
 17994,1234719,Red Dawn (2012),Action|Sci-Fi|Thriller,2012,Red Dawn,"['Action', 'Sci-Fi', 'Thriller']",3,5.7336244541484715,229
 17995,1234721,RoboCop (2014),Action|Crime|Sci-Fi|Thriller,2014,RoboCop,"['Action', 'Crime', 'Sci-Fi', 'Thriller']",4,6.4400452488687785,884
-17998,1235166,Un prophète (2009),Crime|Drama,2009,Un prophète,"['Crime', 'Drama']",2,7.98876404494382,89
 18004,1235522,Broken City (2013),Crime|Drama|Thriller,2013,Broken City,"['Crime', 'Drama', 'Thriller']",3,6.3128834355828225,326
 18032,1241317,Death Note (2017),Adventure|Crime|Drama|Fantasy|Horror|Mystery|Thriller,2017,Death Note,"['Adventure', 'Crime', 'Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller']",7,4.444043321299639,277
-18037,1242422,Celda 211 (2009),Action|Crime|Drama|Thriller,2009,Celda 211,"['Action', 'Crime', 'Drama', 'Thriller']",4,7.851239669421488,121
 18038,1242432,I Spit on Your Grave (2010),Horror|Thriller,2010,I Spit on Your Grave,"['Horror', 'Thriller']",2,6.267605633802817,71
 18041,1242460,We Need to Talk About Kevin (2011),Drama|Mystery|Thriller,2011,We Need to Talk About Kevin,"['Drama', 'Mystery', 'Thriller']",3,7.490196078431373,153
 18055,1243957,The Tourist (2010),Action|Adventure|Thriller,2010,The Tourist,"['Action', 'Adventure', 'Thriller']",3,6.404255319148936,94
@@ -763,11 +241,9 @@
 18091,1253863,300: Rise of an Empire (2014),Action|Fantasy|War,2014,300: Rise of an Empire,"['Action', 'Fantasy', 'War']",3,6.765237020316027,886
 18092,1253864,Immortals (2011),Action|Drama|Fantasy|Romance,2011,Immortals,"['Action', 'Drama', 'Fantasy', 'Romance']",4,6.4,80
 18101,1255953,Incendies (2010),Drama|Mystery|War,2010,Incendies,"['Drama', 'Mystery', 'War']",3,8.763736263736265,546
-18105,1258197,Exam (2009),Mystery|Thriller,2009,Exam,"['Mystery', 'Thriller']",2,6.939024390243903,164
 18107,1258972,The Man with the Iron Fists (2012),Action,2012,The Man with the Iron Fists,['Action'],1,5.460992907801418,141
 18109,1259521,The Cabin in the Woods (2011),Comedy|Horror,2011,The Cabin in the Woods,"['Comedy', 'Horror']",2,6.406779661016949,354
 18110,1259528,Den of Thieves (2018),Action|Crime|Drama|Mystery|Thriller,2018,Den of Thieves,"['Action', 'Crime', 'Drama', 'Mystery', 'Thriller']",5,7.161417322834645,254
-18111,1259571,The Twilight Saga: New Moon (2009),Adventure|Drama|Fantasy|Romance,2009,The Twilight Saga: New Moon,"['Adventure', 'Drama', 'Fantasy', 'Romance']",4,6.08,50
 18134,1262416,Scream 4 (2011),Horror|Mystery,2011,Scream 4,"['Horror', 'Mystery']",2,6.0754716981132075,53
 18155,1267297,Hercules (2014),Action|Adventure|Fantasy,2014,Hercules,"['Action', 'Adventure', 'Fantasy']",3,6.331707317073171,410
 18164,1270262,The Devil's Double (2011),Biography|Drama|Thriller,2011,The Devil's Double,"['Biography', 'Drama', 'Thriller']",3,7.25,60
@@ -776,7 +252,6 @@
 18180,1272878,2 Guns (2013),Action|Comedy|Crime|Thriller,2013,2 Guns,"['Action', 'Comedy', 'Crime', 'Thriller']",4,6.998882681564246,895
 18204,1276104,Looper (2012),Action|Crime|Drama|Sci-Fi|Thriller,2012,Looper,"['Action', 'Crime', 'Drama', 'Sci-Fi', 'Thriller']",5,7.477443609022556,532
 18207,1276419,En kongelig affære (2012),Biography|Drama|History|Romance,2012,En kongelig affære,"['Biography', 'Drama', 'History', 'Romance']",4,7.958762886597938,97
-18213,1277737,The Stoning of Soraya M. (2008),Drama,2008,The Stoning of Soraya M.,['Drama'],1,8.415584415584416,77
 18215,1277953,Madagascar 3: Europe's Most Wanted (2012),Animation|Adventure|Comedy|Family,2012,Madagascar 3: Europe's Most Wanted,"['Animation', 'Adventure', 'Comedy', 'Family']",4,7.102564102564102,78
 18225,1279935,Date Night (2010),Comedy|Crime|Romance|Thriller,2010,Date Night,"['Comedy', 'Crime', 'Romance', 'Thriller']",4,6.681159420289855,69
 18235,1282140,Easy A (2010),Comedy|Drama|Romance,2010,Easy A,"['Comedy', 'Drama', 'Romance']",3,6.908653846153846,208
@@ -786,7 +261,6 @@
 18270,1288558,Evil Dead (2013),Fantasy|Horror|Thriller,2013,Evil Dead,"['Fantasy', 'Horror', 'Thriller']",3,6.646802325581396,688
 18276,1289401,Ghostbusters (2016),Action|Comedy|Fantasy|Sci-Fi,2016,Ghostbusters,"['Action', 'Comedy', 'Fantasy', 'Sci-Fi']",4,5.842615012106537,413
 18277,1289403,The Guernsey Literary Society (2018),Drama|History|Romance,2018,The Guernsey Literary Society,"['Drama', 'History', 'Romance']",3,7.733333333333333,60
-18278,1289406,Harry Brown (2009),Action|Crime|Drama|Thriller,2009,Harry Brown,"['Action', 'Crime', 'Drama', 'Thriller']",4,7.132075471698113,53
 18289,1291150,Teenage Mutant Ninja Turtles (2014),Action|Adventure|Comedy|Sci-Fi,2014,Teenage Mutant Ninja Turtles,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",4,6.3189522342064715,649
 18295,1291570,Solace (2015),Crime|Drama|Mystery|Thriller,2015,Solace,"['Crime', 'Drama', 'Mystery', 'Thriller']",4,6.788732394366197,142
 18296,1291580,Behind the Candelabra (2013),Biography|Drama|Romance,2013,Behind the Candelabra,"['Biography', 'Drama', 'Romance']",3,7.308,250
@@ -802,14 +276,12 @@
 18339,1300854,Iron Man Three (2013),Action|Adventure|Sci-Fi,2013,Iron Man Three,"['Action', 'Adventure', 'Sci-Fi']",3,7.673267326732673,2424
 18345,1302006,The Irishman (2019),Biography|Crime|Drama|History|Thriller,2019,The Irishman,"['Biography', 'Crime', 'Drama', 'History', 'Thriller']",5,8.53816425120773,1035
 18346,1302011,Kung Fu Panda 2 (2011),Animation|Action|Adventure|Comedy|Family|Fantasy,2011,Kung Fu Panda 2,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",6,7.396825396825397,63
-18358,1305806,El secreto de sus ojos (2009),Drama|Mystery|Romance|Thriller,2009,El secreto de sus ojos,"['Drama', 'Mystery', 'Romance', 'Thriller']",4,8.602316602316602,259
 18362,1306980,50/50 (2011),Comedy|Drama|Romance,2011,50/50,"['Comedy', 'Drama', 'Romance']",3,7.73394495412844,327
 18365,1307068,Seeking a Friend for the End of the World (2012),Adventure|Comedy|Drama|Romance|Sci-Fi,2012,Seeking a Friend for the End of the World,"['Adventure', 'Comedy', 'Drama', 'Romance', 'Sci-Fi']",5,6.574358974358974,195
 18376,1308729,Bullet to the Head (2012),Action|Crime|Thriller,2012,Bullet to the Head,"['Action', 'Crime', 'Thriller']",3,5.746268656716418,134
 18387,1311071,Kill Your Darlings (2013),Biography|Drama|Romance|Thriller,2013,Kill Your Darlings,"['Biography', 'Drama', 'Romance', 'Thriller']",4,6.516666666666667,120
 18392,1313092,Animal Kingdom (2010),Crime|Drama,2010,Animal Kingdom,"['Crime', 'Drama']",2,7.647058823529412,51
 18407,1314655,Devil (2010),Horror|Mystery|Thriller,2010,Devil,"['Horror', 'Mystery', 'Thriller']",3,6.455696202531645,79
-18412,1315981,A Single Man (2009),Drama|Romance,2009,A Single Man,"['Drama', 'Romance']",2,7.446601941747573,103
 18426,1318514,Rise of the Planet of the Apes (2011),Action|Drama|Sci-Fi|Thriller,2011,Rise of the Planet of the Apes,"['Action', 'Drama', 'Sci-Fi', 'Thriller']",4,7.727520435967302,367
 18441,1320253,The Expendables (2010),Action|Adventure|Thriller,2010,The Expendables,"['Action', 'Adventure', 'Thriller']",3,6.436507936507937,126
 18451,1321511,Oldboy (2013),Action|Drama|Mystery|Thriller,2013,Oldboy,"['Action', 'Drama', 'Mystery', 'Thriller']",4,5.966942148760331,242
@@ -834,7 +306,6 @@
 18635,1355631,The Infiltrator (2016),Biography|Crime|Drama|Thriller,2016,The Infiltrator,"['Biography', 'Crime', 'Drama', 'Thriller']",4,7.329166666666667,240
 18638,1355644,Passengers (2016),Drama|Romance|Sci-Fi|Thriller,2016,Passengers,"['Drama', 'Romance', 'Sci-Fi', 'Thriller']",4,7.165380374862183,907
 18639,1355683,Black Mass (2015),Biography|Crime|Drama,2015,Black Mass,"['Biography', 'Crime', 'Drama']",3,6.985324947589098,477
-18653,1360860,Darbareye Elly (2009),Drama|Mystery|Thriller,2009,Darbareye Elly,"['Drama', 'Mystery', 'Thriller']",3,8.270833333333334,144
 18656,1361318,Good People (2014),Action|Crime|Thriller,2014,Good People,"['Action', 'Crime', 'Thriller']",3,5.5,60
 18668,1365050,Beasts of No Nation (2015),Drama|War,2015,Beasts of No Nation,"['Drama', 'War']",2,7.889487870619946,371
 18672,1365519,Tomb Raider (2018),Action|Adventure|Fantasy|Thriller,2018,Tomb Raider,"['Action', 'Adventure', 'Fantasy', 'Thriller']",4,6.472154963680388,413
@@ -845,7 +316,6 @@
 18715,1374992,Upside Down (2012),Drama|Fantasy|Romance|Sci-Fi,2012,Upside Down,"['Drama', 'Fantasy', 'Romance', 'Sci-Fi']",4,6.589595375722543,173
 18716,1375666,Inception (2010),Action|Adventure|Sci-Fi|Thriller,2010,Inception,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,9.023696682464456,1055
 18718,1375670,Grown Ups (2010),Comedy,2010,Grown Ups,['Comedy'],1,6.568345323741007,139
-18732,1379182,Kynodontas (2009),Drama|Thriller,2009,Kynodontas,"['Drama', 'Thriller']",2,7.157894736842105,95
 18742,1381404,The Company You Keep (2012),Drama|Thriller,2012,The Company You Keep,"['Drama', 'Thriller']",2,6.821917808219178,146
 18760,1385826,The Adjustment Bureau (2011),Romance|Sci-Fi|Thriller,2011,The Adjustment Bureau,"['Romance', 'Sci-Fi', 'Thriller']",3,7.3108108108108105,148
 18768,1386588,The Other Guys (2010),Action|Comedy|Crime,2010,The Other Guys,"['Action', 'Comedy', 'Crime']",3,6.75,124
@@ -882,7 +352,6 @@
 18930,1418377,"I, Frankenstein (2014)",Action|Fantasy|Horror|Sci-Fi|Thriller,2014,"I, Frankenstein","['Action', 'Fantasy', 'Horror', 'Sci-Fi', 'Thriller']",5,5.255892255892256,297
 18968,1424381,Predators (2010),Action|Adventure|Sci-Fi|Thriller,2010,Predators,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']",4,6.573529411764706,68
 18969,1424432,Senna (2010),Documentary|Biography|Sport,2010,Senna,"['Documentary', 'Biography', 'Sport']",3,8.685483870967742,124
-18971,1424797,J'ai tué ma mère (2009),Drama|Romance,2009,J'ai tué ma mère,"['Drama', 'Romance']",2,7.627450980392157,51
 18979,1426329,Lovelace (2013),Biography|Drama,2013,Lovelace,"['Biography', 'Drama']",2,6.411111111111111,180
 18993,1428538,Hansel &amp; Gretel: Witch Hunters (2013),Action|Fantasy|Horror,2013,Hansel &amp; Gretel: Witch Hunters,"['Action', 'Fantasy', 'Horror']",3,6.342403628117914,441
 19002,1430132,The Wolverine (2013),Action|Adventure|Sci-Fi,2013,The Wolverine,"['Action', 'Adventure', 'Sci-Fi']",3,6.858245614035088,1425
