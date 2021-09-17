@@ -4,44 +4,73 @@ Authors: Danielle Rossman, Nick Indorf, Jeff Marvel
 
 Summary: 
 
-This project analyzes movie data from the last ten years (2010-2019) to determine what characteristics have driven box office success as measured by Return on Investment (ROI). The project culminated in three business recommendations for the hypothetical launch of a new movie studio.
+This project analyzes movie data from the last ten years (2010-2019) to determine what characteristics have driven box office success as measured by Return on Investment percentage (ROI%). The project culminated in three business recommendations for the  launch of Microsoft's new movie studio, presented [here](https://docs.google.com/presentation/d/1klWg1TuGNnFnyVte3Z8LerU-2E2BE98NHsQzit1o35c/edit?usp=sharing)
 
 
 Data and sources:
 
-IMDB: data on movie names, staff (director, actor, etc), and grenre from the past 10 years.
-The Numbers: data on profitability (worlwide gross, production budget) for each movie
-MovieTweeting: repository of "well-structured" tweets that contain a movie review (https://github.com/sidooms/MovieTweetings/blob/master/README.md) 
+[IMDB datasets](https://www.imdb.com/interfaces/): multiple datasets on general movie info, genre, ratings, and staff (director, actor, etc) from the past 10 years.
+[The Numbers](https://www.the-numbers.com/data-services): data on profitability (worlwide gross, production budget) for each movie
+[MovieTweeting](https://github.com/sidooms/MovieTweetings/blob/master/README.md): repository of "well-structured" tweets that contain a movie review  
 
 
 Navigating the repository: 
 
-The original datasets for IMDB and The Numbers can be found in the "Zipped Data" folder.
-Data on MovieTweeting are contained in movies.dat and ratings.dat
-Data_cleaning.jpynb: notebook that consolidates datasets and performs other cleaning steps. Outputs a clean CSV file that is used in the final analysis.
-Movie_analysis.jpynb: notebook that performs analysis that underlines each recommendation. Leverages final CSVs produced by the Data Cleaning notebook. Includes a for each of the recommendations and prints / saves the final graphs used in the presentation.
-Graphs used in final presentation are found in the "images" folder.
+In the main directory:
+
+`data_cleaning_final.jpynb`: notebook that consolidates datasets and performs other cleaning steps. Outputs a clean CSV file that is used in the final analysis.
+`Movie_analysis_final.jpynb`: notebook that performs analysis that underlines each recommendation. Leverages final CSVs produced by the Data Cleaning notebook. Provides a rationale for each of the recommendations and prints / saves the final graphs used in the presentation.
+
+In the `zippedData` directory:
+
+The original datasets for IMDB:
+* `imdb.title.basics.csv.gz`
+* `imdb.title.ratings.csv.gz`
+* `imdb.title.principals.csv.gz`
+* `imdb.title.crew.csv.gz`
+* `imdb.title.basics.csv.gz`
+* `imdb.name.basics.csv.gz`
+
+The original datasets for The Numbers:
+* `tn.movie_budgets.csv.gz`
+
+The original datasets for MovieTweeting
+* `movies.dat`
+* `ratings.dat`
 
 
-Further detail on approach and methodlogy:
+In the `images` directory:
+Figures used in final presentation
 
-Datasets were merged based on a concatenation of year and movie title (to prevent movies with the same name being included twice). Further data cleaning steps were taken, including: 
-  
+
+Approach and methodology:
+
+IMDB sub-datasets were first merged together to create a large composite IMDB dataset.
+The Numbers dataset was processed to adjust profit and cost for inflation, as well as ROI%
+The IMDB composite and The Numbers were merged based on a concatenation of year and movie title (to prevent movies with the same name being included twice).
+
+Further data cleaning steps were taken, including:   
 * Removing a handful of Null values
 * Removing outliers
-* Filter only for movies with at least a $100K production budget (rationale is that Microsoft isn't likely to produce such a low budget movie)
-* For the analysis of twitter reviews, I removed movies that received under 50 reviews (to prevent skew in the results)
+    - ROI% > 6000 (2 movies) - skewed dataset too highly
+    - Worldwide Gross < $100K (52 movies) - potentially just a limited run with low scope - not relevant to Microsoft's interests
+* For the analysis of twitter reviews, removed movies that received under 50 reviews (to prevent skew in the results)
+
+This yielded a composite dataset for downstream analysis. A histogram of ROI distributions is provided.
 
 
 Recommendation #1: Horror / Thriller movies tend to perform significantly better than average at the box office.
 
-Details: Grouping the dataset by genre and sorting by average ROI, Horror, Mystery, and Thriller movies stand out from the pack in terms of ROI. These movies have an ROI that is 108% higher than average. This is not necessarily surprising since Horror movies, while they may not win any oscars, consistently draw large crowds and perform well. The below graph illustrates this relationship.
+Grouped the dataset by genre and sorting by average ROI.
 
-! <show path to the graph>
+Horror, Mystery, and Thriller movies stand out from the pack in terms of ROI. These movies have an ROI that is 108% higher than average. This is not necessarily surprising since Horror movies, while they may not win any oscars, consistently draw large crowds and perform well. The below graph illustrates this relationship.
 
-Recommendation #2: Target a "to-hire" list of directors / actors and other movie employees that consistently outperform the mean.
+
+
+Recommendation #2: Target 6 "to-hire" movie cast/crew who consistently outperform their peers.
   
-Our analysis found a subset of people that consistently produce box office success.See graphs below.
+Grouped the dataset by person in each role (meaning job in the cast/crew), then sorted to find the top performers.
+This subset was filtered for people who have worked on at least 2 and at least 3 movies (to make sure 
   
 
 Recommendation #3: Focus on making good movies and invest in social media presence.
