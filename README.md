@@ -9,17 +9,17 @@ This project analyzes movie data from the last ten years (2010-2019) to determin
 
 Data and sources:
 
-IMDB: data on movie names, staff (director, actor, etc), and grenre from the past 10 years.
-The Numbers: data on profitability (worlwide gross, production budget) for each movie
-MovieTweeting: repository of "well-structured" tweets that contain a movie review (https://github.com/sidooms/MovieTweetings/blob/master/README.md) 
+* IMDB: data on movie names, staff (director, actor, etc), and grenre from the past 10 years.
+* The Numbers: data on profitability (worlwide gross, production budget) for each movie
+* MovieTweeting: repository of "well-structured" tweets that contain a movie review (https://github.com/sidooms/MovieTweetings/blob/master/README.md) 
 
 
 Navigating the repository: 
 
 The original datasets for IMDB and The Numbers can be found in the "Zipped Data" folder.
 Data on MovieTweeting are contained in movies.dat and ratings.dat
-Data_cleaning.jpynb: notebook that consolidates datasets and performs other cleaning steps. Outputs a clean CSV file that is used in the final analysis.
-Movie_analysis.jpynb: notebook that performs analysis that underlines each recommendation. Leverages final CSVs produced by the Data Cleaning notebook. Includes a for each of the recommendations and prints / saves the final graphs used in the presentation.
+data_cleaning_final.jpynb: notebook that consolidates datasets and performs other cleaning steps. Outputs a clean CSV file that is used in the final analysis.
+movie_analysis_final.jpynb: notebook that performs analysis that underlines each recommendation. Leverages final CSVs produced by the Data Cleaning notebook. Includes a for each of the recommendations and prints / saves the final graphs used in the presentation.
 Graphs used in final presentation are found in the "images" folder.
 
 
