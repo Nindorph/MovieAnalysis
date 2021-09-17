@@ -4,7 +4,7 @@ Authors: Danielle Rossman, Nick Indorf, Jeff Marvel
 
 Summary: 
 
-This project analyzes movie data from the last ten years (2010-2019) to determine what characteristics have driven box office success as measured by Return on Investment percentage (ROI%). The project culminated in three business recommendations for the  launch of Microsoft's new movie studio, presented [here](https://docs.google.com/presentation/d/1klWg1TuGNnFnyVte3Z8LerU-2E2BE98NHsQzit1o35c/edit?usp=sharing)
+This project analyzes movie data from the last ten years (2010-2019) to determine what characteristics have driven box office success as measured by Return on Investment percentage (ROI%). The project culminated in three business recommendations for the  launch of Microsoft's new movie studio. Presentation [here](https://docs.google.com/presentation/d/1klWg1TuGNnFnyVte3Z8LerU-2E2BE98NHsQzit1o35c/edit?usp=sharing)
 
 
 Data and sources:
@@ -18,7 +18,7 @@ Navigating the repository:
 
 In the main directory:
 
-`data_cleaning_final.jpynb`: notebook that consolidates datasets and performs other cleaning steps. Outputs a clean CSV file that is used in the final analysis.
+`data_cleaning_final.jpynb`: Run this first. notebook that consolidates datasets and performs other cleaning steps. Outputs a clean CSV file that is used in the final analysis.
 `Movie_analysis_final.jpynb`: notebook that performs analysis that underlines each recommendation. Leverages final CSVs produced by the Data Cleaning notebook. Provides a rationale for each of the recommendations and prints / saves the final graphs used in the presentation.
 
 In the `zippedData` directory:
@@ -34,44 +34,55 @@ The original datasets for IMDB:
 The original datasets for The Numbers:
 * `tn.movie_budgets.csv.gz`
 
-The original datasets for MovieTweeting
+The original datasets for MovieTweeting:
 * `movies.dat`
 * `ratings.dat`
 
+In the `cleanData` directory:
+The cleaned datasets found below
+
 
 In the `images` directory:
-Figures used in final presentation
+Figures generated in the recommendation analyses, used in the final presentation.
 
 
 Approach and methodology:
 
 IMDB sub-datasets were first merged together to create a large composite IMDB dataset.
+* saved in `cleanData/cleanIMDB/imdb_comp.csv`
+* name keys save as `cleanData/cleanIMDB/imdb_namekey.csv`
 The Numbers dataset was processed to adjust profit and cost for inflation, as well as ROI%
+* saved in the `cleanData` directory as `theNumbers_clean.csv`
 The IMDB composite and The Numbers were merged based on a concatenation of year and movie title (to prevent movies with the same name being included twice).
+* saved in the `cleanData` directory as `imdb_combined_prof.csv`
 
 Further data cleaning steps were taken, including:   
 * Removing a handful of Null values
 * Removing outliers
     - ROI% > 6000 (2 movies) - skewed dataset too highly
     - Worldwide Gross < $100K (52 movies) - potentially just a limited run with low scope - not relevant to Microsoft's interests
+    
 * For the analysis of twitter reviews, removed movies that received under 50 reviews (to prevent skew in the results)
+    - saved in the `cleanData` directory as `twitter_reviews_clean.csv`
 
-This yielded a composite dataset for downstream analysis. A histogram of ROI distributions is provided.
+This yielded a composite dataset for downstream analysis, saved in the `cleanData` directory as `imdb_combined_prof`.
+A histogram of ROI distributions is provided, saved in the `images` as `comp_data_hist.png`
 
 
 Recommendation #1: Horror / Thriller movies tend to perform significantly better than average at the box office.
 
 Grouped the dataset by genre and sorting by average ROI.
-
 Horror, Mystery, and Thriller movies stand out from the pack in terms of ROI. These movies have an ROI that is 108% higher than average. This is not necessarily surprising since Horror movies, while they may not win any oscars, consistently draw large crowds and perform well. The below graph illustrates this relationship.
-
 
 
 Recommendation #2: Target 6 "to-hire" movie cast/crew who consistently outperform their peers.
   
 Grouped the dataset by person in each role (meaning job in the cast/crew), then sorted to find the top performers.
-This subset was filtered for people who have worked on at least 2 and at least 3 movies (to make sure 
-  
+This subset was filtered for people who have worked on at least 2 and at least 3 movies (to remove 'one-hit wonders').
+A set of scatterplots was generated, with x-axis as # of movies and y-axis as ROI%
+Then, a set of box plots was generated for the top 5 performers in each role
+For all plots, averages of # of movies and ROI% is added to the graphs, where applicable.
+In the set of box plots for 2+ movies worked, 6 cast/crew members outperformed their peers significantly.
 
 Recommendation #3: Focus on making good movies and invest in social media presence.
   
@@ -89,4 +100,5 @@ Conclusion:
 
   
 Further analysis:
-* 
+* Interaction of Genre and Cast/Crew
+* Twitter analysis with a more complete dataset, as the original was only for "well-structured" tweets
